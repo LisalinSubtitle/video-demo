@@ -1,0 +1,8232 @@
+1
+00:00:47,400 --> 00:00:50,633
+on a cool October day in 1945 
+
+2
+00:00:50,633 --> 00:00:51,666
+Dr J Robert Oppenheimer
+
+3
+00:00:51,666 --> 00:00:54,400
+arrived at the White House in Washington DC
+
+4
+00:00:55,333 --> 00:00:57,866
+a 30 minute meeting had been scheduled with President
+
+5
+00:00:57,866 --> 00:00:59,266
+Harry S Truman
+
+6
+00:01:00,466 --> 00:01:03,400
+a meeting that could shape the course of history
+
+7
+00:01:07,400 --> 00:01:08,300
+that morning Doctor
+
+8
+00:01:08,300 --> 00:01:09,133
+Robert Oppenheimer
+
+9
+00:01:09,133 --> 00:01:12,066
+was making an attempt to reason with the president
+
+10
+00:01:15,933 --> 00:01:18,866
+he had just LED a team of scientists in developing
+
+11
+00:01:18,866 --> 00:01:19,933
+and testing a weapon
+
+12
+00:01:19,933 --> 00:01:21,600
+that helped bring about the end of
+
+13
+00:01:21,600 --> 00:01:22,933
+the Second World War
+
+14
+00:01:26,066 --> 00:01:27,333
+now he was desperate
+
+15
+00:01:27,333 --> 00:01:29,700
+to prevent the world from destroying itself
+
+16
+00:01:34,833 --> 00:01:37,933
+after the atomic bombings of Hiroshima and Nagasaki
+
+17
+00:01:38,066 --> 00:01:40,400
+Oppenheimer had followed military developments
+
+18
+00:01:40,400 --> 00:01:41,800
+with deep concern
+
+19
+00:01:45,800 --> 00:01:48,700
+he felt compelled to personally share his fears
+
+20
+00:01:48,700 --> 00:01:49,900
+about this devastating
+
+21
+00:01:49,900 --> 00:01:52,333
+new weapon with the American president
+
+22
+00:02:00,233 --> 00:02:02,066
+the events of October
+
+23
+00:02:02,066 --> 00:02:05,033
+1945 marked a turning point in history
+
+24
+00:02:05,733 --> 00:02:08,033
+but the story began years earlier
+
+25
+00:02:08,033 --> 00:02:11,300
+with Hitler's invasion of Poland in 1939
+
+26
+00:02:11,433 --> 00:02:13,533
+which triggered the Second World War
+
+27
+00:02:16,066 --> 00:02:18,433
+as German forces advanced across Europe
+
+28
+00:02:18,933 --> 00:02:22,433
+European emigre physicists working in the United States
+
+29
+00:02:22,533 --> 00:02:24,666
+Learned that their counterparts in Berlin
+
+30
+00:02:24,666 --> 00:02:26,700
+were experimenting with nuclear fission
+
+31
+00:02:30,700 --> 00:02:32,866
+fearing its potential as a weapon
+
+32
+00:02:33,266 --> 00:02:35,100
+they approached Albert Einstein
+
+33
+00:02:35,233 --> 00:02:37,800
+and persuaded him to collaborate in writing a letter
+
+34
+00:02:37,800 --> 00:02:40,433
+warning President Franklin D Roosevelt
+
+35
+00:02:43,633 --> 00:02:45,266
+the letter raised the alarm
+
+36
+00:02:45,266 --> 00:02:45,833
+that Nazi
+
+37
+00:02:45,833 --> 00:02:49,066
+Germany might be the first to develop an atomic bomb
+
+38
+00:02:51,033 --> 00:02:53,733
+in response Roosevelt mobilized US
+
+39
+00:02:53,733 --> 00:02:55,666
+resources to stay ahead
+
+40
+00:02:59,033 --> 00:03:00,500
+by executive order
+
+41
+00:03:00,500 --> 00:03:03,333
+he created the Manhattan Engineer District
+
+42
+00:03:03,600 --> 00:03:05,000
+placing atomic research
+
+43
+00:03:05,000 --> 00:03:07,533
+at the center of the American war effort
+
+44
+00:03:11,300 --> 00:03:13,600
+to lead this unprecedented project
+
+45
+00:03:13,600 --> 00:03:15,800
+the army appointed General Leslie Groves
+
+46
+00:03:15,800 --> 00:03:16,866
+a seasoned officer
+
+47
+00:03:16,866 --> 00:03:19,500
+who had recently overseen construction of the Pentagon
+
+48
+00:03:19,500 --> 00:03:20,333
+in Washington DC
+
+49
+00:03:20,333 --> 00:03:23,533
+a significant military achievement
+
+50
+00:03:29,033 --> 00:03:29,666
+undergrows
+
+51
+00:03:29,666 --> 00:03:32,600
+the Manhattan Engineer District grew rapidly
+
+52
+00:03:32,700 --> 00:03:35,466
+employing 75,000 Americans
+
+53
+00:03:38,266 --> 00:03:40,300
+its structure was compartmentalized
+
+54
+00:03:40,300 --> 00:03:43,100
+to protect secrecy and maintain focus
+
+55
+00:03:45,000 --> 00:03:47,600
+Groves knew he needed a brilliant scientist
+
+56
+00:03:47,900 --> 00:03:49,800
+someone who could lead with vision
+
+57
+00:03:49,866 --> 00:03:52,100
+rally the nation's top minds
+
+58
+00:03:52,300 --> 00:03:54,866
+and drive progress at a record pace
+
+59
+00:03:55,833 --> 00:03:57,533
+after careful consideration
+
+60
+00:03:57,533 --> 00:04:00,000
+General Groves arrived at his decision
+
+61
+00:04:03,866 --> 00:04:07,800
+I was completely responsible for the selection of Dr
+
+62
+00:04:08,133 --> 00:04:09,133
+Oppenheimer
+
+63
+00:04:09,733 --> 00:04:13,666
+as the head of the Los Alamos Bomb Laboratory
+
+64
+00:04:15,700 --> 00:04:16,666
+Dr. Oppenheimer
+
+65
+00:04:16,666 --> 00:04:18,833
+already knew many of the top scientists
+
+66
+00:04:18,833 --> 00:04:20,233
+and physicists of the era
+
+67
+00:04:21,300 --> 00:04:22,466
+he had the charisma
+
+68
+00:04:22,466 --> 00:04:24,333
+intellect and leadership skills
+
+69
+00:04:24,333 --> 00:04:26,900
+needed to unite them behind a single mission
+
+70
+00:04:29,900 --> 00:04:32,500
+when Groves and Oppenheimer met for the first time
+
+71
+00:04:32,733 --> 00:04:35,466
+their top priority was finding a remote location
+
+72
+00:04:35,466 --> 00:04:37,100
+for a secret laboratory
+
+73
+00:04:38,333 --> 00:04:40,300
+where the scientists could live and work
+
+74
+00:04:40,300 --> 00:04:41,400
+around the clock
+
+75
+00:04:41,400 --> 00:04:43,033
+in complete isolation
+
+76
+00:04:45,933 --> 00:04:48,900
+Oppenheimer suggested a place in northern New Mexico
+
+77
+00:04:48,900 --> 00:04:50,900
+where he had spent time with his family
+
+78
+00:04:52,833 --> 00:04:54,300
+he had hiked the hills
+
+79
+00:04:54,400 --> 00:04:56,333
+ridden horses through the terrain
+
+80
+00:04:56,433 --> 00:04:58,500
+and even leased a simple cabin there
+
+81
+00:05:02,100 --> 00:05:05,233
+he remembered a nearby ranch school set on a Mesa
+
+82
+00:05:09,100 --> 00:05:10,666
+it seemed ideal
+
+83
+00:05:11,800 --> 00:05:13,733
+the two men drove out to see it
+
+84
+00:05:15,433 --> 00:05:17,900
+the old school grounds had solid infrastructure
+
+85
+00:05:17,900 --> 00:05:20,400
+access to water and room for expansion
+
+86
+00:05:20,666 --> 00:05:23,700
+Groves turned to Oppenheimer and said this is it
+
+87
+00:05:24,666 --> 00:05:27,433
+the property was quickly secured for the government
+
+88
+00:05:27,866 --> 00:05:31,200
+and work began immediately on guardhouses and roads
+
+89
+00:05:32,433 --> 00:05:35,233
+Oppenheimer started assembling a team of top scientists
+
+90
+00:05:35,233 --> 00:05:38,000
+engineers and experts from across the country
+
+91
+00:05:39,266 --> 00:05:42,100
+a laboratory was built and structures began to rise
+
+92
+00:05:42,100 --> 00:05:43,333
+almost overnight
+
+93
+00:05:44,333 --> 00:05:47,100
+hundreds of workers and support staff arrived
+
+94
+00:05:48,000 --> 00:05:50,800
+the guardhouse soon became a hub of activity
+
+95
+00:05:52,333 --> 00:05:54,700
+scientists came with their families
+
+96
+00:05:54,833 --> 00:05:57,066
+among them was Oppenheimer's wife Catherine
+
+97
+00:05:57,066 --> 00:05:58,066
+known as Kitty
+
+98
+00:05:58,233 --> 00:06:01,100
+who was his confidant and constant companion
+
+99
+00:06:06,900 --> 00:06:09,200
+Kitty welcomed new arrivals
+
+100
+00:06:09,333 --> 00:06:11,200
+organized social events
+
+101
+00:06:11,333 --> 00:06:14,633
+and became the de facto first lady of Los Alamos
+
+102
+00:06:18,100 --> 00:06:19,733
+as research advanced
+
+103
+00:06:19,900 --> 00:06:20,900
+military planners
+
+104
+00:06:20,900 --> 00:06:23,200
+began searching for a nearby location
+
+105
+00:06:23,200 --> 00:06:25,900
+to test the world's first atomic bomb
+
+106
+00:06:30,033 --> 00:06:33,000
+the test site needed to be far from populated areas and
+
+107
+00:06:33,000 --> 00:06:34,800
+inaccessible to the public
+
+108
+00:06:35,700 --> 00:06:39,433
+a location north of Alamogordo New Mexico was selected
+
+109
+00:06:40,933 --> 00:06:44,100
+it lay in a desert known as the Jordana del Muertos
+
+110
+00:06:44,233 --> 00:06:46,500
+Spanish for “journey of the dead”
+
+111
+00:06:47,733 --> 00:06:50,300
+the area had already been secured by the military
+
+112
+00:06:50,300 --> 00:06:52,133
+and used for bombing practice
+
+113
+00:06:55,733 --> 00:06:57,500
+eyewitnesses later recalled that
+
+114
+00:06:57,500 --> 00:07:00,466
+Oppenheimer played a key role in selecting the site
+
+115
+00:07:01,833 --> 00:07:04,800
+he reportedly slept under a truck during the search
+
+116
+00:07:04,800 --> 00:07:06,633
+and seemed more at ease in the desert
+
+117
+00:07:06,633 --> 00:07:08,200
+than many of his colleagues
+
+118
+00:07:11,300 --> 00:07:12,033
+over time
+
+119
+00:07:12,033 --> 00:07:15,233
+a small base camp rose from the barren terrain
+
+120
+00:07:15,466 --> 00:07:17,900
+Oppenheimer named the site Trinity
+
+121
+00:07:20,633 --> 00:07:23,600
+several buildings were constructed at the test location
+
+122
+00:07:23,600 --> 00:07:25,733
+including barracks and a canteen
+
+123
+00:07:26,333 --> 00:07:28,800
+there was even a pool table for the workers
+
+124
+00:07:35,666 --> 00:07:37,900
+when the bomb was finally ready for testing
+
+125
+00:07:37,900 --> 00:07:40,066
+a tall steel tower was built
+
+126
+00:07:40,233 --> 00:07:42,333
+the idea was to detonate the device above
+
+127
+00:07:42,333 --> 00:07:45,266
+ground to better observe and measure its effects
+
+128
+00:07:47,266 --> 00:07:49,300
+by late April 1945
+
+129
+00:07:49,300 --> 00:07:51,800
+Allied forces had retaken most of Germany
+
+130
+00:07:51,800 --> 00:07:53,700
+and were closing in on Berlin
+
+131
+00:07:59,033 --> 00:08:00,533
+Berlin soon fell
+
+132
+00:08:00,533 --> 00:08:03,433
+and the entire country came under Allied control
+
+133
+00:08:04,133 --> 00:08:05,900
+German soldiers surrendered
+
+134
+00:08:05,933 --> 00:08:08,900
+and many members of the Nazi regime were captured
+
+135
+00:08:10,700 --> 00:08:11,200
+American
+
+136
+00:08:11,200 --> 00:08:13,900
+intelligence teams recovered a vast trove of secret
+
+137
+00:08:13,900 --> 00:08:15,300
+military documents
+
+138
+00:08:16,066 --> 00:08:17,500
+after Germany's surrender
+
+139
+00:08:17,500 --> 00:08:21,066
+US intelligence agents rushed to the Pina Munda rocket facility
+
+140
+00:08:21,266 --> 00:08:22,433
+where Werner von Braun
+
+141
+00:08:22,433 --> 00:08:25,500
+had LED the development of the German V2 rocket
+
+142
+00:08:30,733 --> 00:08:32,333
+in a nearby cave
+
+143
+00:08:32,633 --> 00:08:36,700
+American troops discovered 14 tons of technical papers
+
+144
+00:08:36,866 --> 00:08:39,033
+and hundreds of rocket components
+
+145
+00:08:42,266 --> 00:08:45,066
+but the agents uncovered an even greater secret
+
+146
+00:08:45,700 --> 00:08:48,633
+that the Germans under von Proun's supervision
+
+147
+00:08:48,700 --> 00:08:51,500
+had been developing a rocket intended to strike
+
+148
+00:08:51,500 --> 00:08:52,800
+New York City
+
+149
+00:08:56,333 --> 00:08:59,133
+alongside tons of rocket components
+
+150
+00:08:59,233 --> 00:09:01,300
+technical drawings and documents
+
+151
+00:09:01,700 --> 00:09:04,466
+the American troops discovered that Dr von brown
+
+152
+00:09:04,466 --> 00:09:06,233
+and his team of German scientists
+
+153
+00:09:06,233 --> 00:09:08,000
+were working on the development
+
+154
+00:09:08,000 --> 00:09:10,733
+of long range weapons that might one day reach
+
+155
+00:09:10,733 --> 00:09:12,433
+transatlantic targets
+
+156
+00:09:14,200 --> 00:09:15,866
+this research they realized
+
+157
+00:09:15,866 --> 00:09:18,133
+could be of great benefit to the US military
+
+158
+00:09:18,633 --> 00:09:21,000
+the findings were quickly relayed to President Truman
+
+159
+00:09:21,000 --> 00:09:22,700
+who ordered all materials
+
+160
+00:09:22,700 --> 00:09:24,000
+and the scientists
+
+161
+00:09:24,100 --> 00:09:26,600
+to be secured and shipped to the United States
+
+162
+00:09:26,600 --> 00:09:27,600
+without delay
+
+163
+00:09:30,433 --> 00:09:32,400
+the US military acted swiftly
+
+164
+00:09:32,433 --> 00:09:34,600
+transporting the rocket parts and equipment
+
+165
+00:09:34,600 --> 00:09:35,466
+technical documents
+
+166
+00:09:35,466 --> 00:09:38,533
+and more than 100 German scientists and their families
+
+167
+00:09:38,533 --> 00:09:40,300
+including Bernhard von brown
+
+168
+00:09:40,333 --> 00:09:41,800
+to the United States
+
+169
+00:09:44,866 --> 00:09:46,200
+the Pentagon decided
+
+170
+00:09:46,200 --> 00:09:49,100
+the best location for this top secret cargo
+
+171
+00:09:49,100 --> 00:09:50,933
+was the New Mexico desert
+
+172
+00:09:51,100 --> 00:09:52,900
+near the atomic test site
+
+173
+00:09:54,433 --> 00:09:56,000
+almost overnight
+
+174
+00:09:56,133 --> 00:09:59,700
+New Mexico became the focal point of global attention
+
+175
+00:10:01,266 --> 00:10:02,100
+it was now home
+
+176
+00:10:02,100 --> 00:10:05,100
+not only to Los Alamos and the Trinity test site
+
+177
+00:10:05,300 --> 00:10:05,800
+but also
+
+178
+00:10:05,800 --> 00:10:08,900
+the centre of a newly planned rocket testing range
+
+179
+00:10:14,233 --> 00:10:16,333
+although the allies now controlled Germany
+
+180
+00:10:16,333 --> 00:10:17,500
+and much of Europe
+
+181
+00:10:17,500 --> 00:10:19,600
+Japan continued to fight fiercely
+
+182
+00:10:19,600 --> 00:10:21,000
+in the Pacific Theater
+
+183
+00:10:27,466 --> 00:10:29,733
+in the weeks following Germany's surrender
+
+184
+00:10:29,733 --> 00:10:31,900
+a conference of Allied leaders was planned
+
+185
+00:10:31,900 --> 00:10:34,466
+to address Europe's postwar administration
+
+186
+00:10:34,866 --> 00:10:35,666
+and to coordinate
+
+187
+00:10:35,666 --> 00:10:38,533
+the final stages of the war against Japan
+
+188
+00:10:39,800 --> 00:10:42,133
+the meeting was scheduled to begin on July 17
+
+189
+00:10:42,133 --> 00:10:44,466
+1945 in Potzdam
+
+190
+00:10:44,900 --> 00:10:47,866
+and later became known as the Potzdam Conference
+
+191
+00:10:51,133 --> 00:10:54,000
+Truman's secretary of war Henry Stinson
+
+192
+00:10:54,433 --> 00:10:57,100
+who received daily updates on the Manhattan Project
+
+193
+00:10:57,233 --> 00:11:00,833
+was aware that the first atomic bomb test was imminent
+
+194
+00:11:02,933 --> 00:11:04,400
+Stimpson requested
+
+195
+00:11:04,400 --> 00:11:05,600
+that President Truman
+
+196
+00:11:05,600 --> 00:11:08,400
+authorise an accelerated timeline for the test
+
+197
+00:11:08,400 --> 00:11:10,033
+in the desert of New Mexico
+
+198
+00:11:10,900 --> 00:11:11,133
+so
+
+199
+00:11:11,133 --> 00:11:13,600
+that its outcome could align with the opening of the
+
+200
+00:11:13,600 --> 00:11:15,200
+Potsdam Conference
+
+201
+00:11:20,266 --> 00:11:22,300
+if the test proved successful
+
+202
+00:11:22,433 --> 00:11:24,033
+Truman could enter the conference
+
+203
+00:11:24,033 --> 00:11:25,333
+with news of a powerful
+
+204
+00:11:25,333 --> 00:11:26,000
+new weapon
+
+205
+00:11:26,000 --> 00:11:29,033
+as leverage for his negotiations with the allies
+
+206
+00:11:30,400 --> 00:11:32,700
+Truman agreed to the accelerated timeline
+
+207
+00:11:32,700 --> 00:11:34,400
+and instructed General Groves
+
+208
+00:11:34,400 --> 00:11:36,833
+to notify the Los Alamos scientists
+
+209
+00:11:36,933 --> 00:11:40,233
+that the test must occur before the Potsdam meeting
+
+210
+00:11:40,400 --> 00:11:42,533
+meaning no later than July
+
+211
+00:11:44,066 --> 00:11:46,500
+Dr Oppenheimer called a meeting at Camp Lodge
+
+212
+00:11:46,500 --> 00:11:47,633
+in Los Alamos
+
+213
+00:11:49,500 --> 00:11:51,200
+the scientists agreed that
+
+214
+00:11:51,200 --> 00:11:53,900
+with full cooperation across all departments
+
+215
+00:11:53,900 --> 00:11:56,033
+the test could be moved forward
+
+216
+00:11:58,133 --> 00:12:01,100
+enriched plutonium was prepared in the Los Alamos lab
+
+217
+00:12:01,100 --> 00:12:02,300
+ahead of the test
+
+218
+00:12:04,800 --> 00:12:06,833
+under Oppenheimer's supervision
+
+219
+00:12:07,133 --> 00:12:10,100
+the plutonium was loaded onto military vehicles
+
+220
+00:12:13,233 --> 00:12:15,833
+it was then driven south through New Mexico
+
+221
+00:12:16,200 --> 00:12:19,033
+arriving hours later at the Trinity site
+
+222
+00:12:19,466 --> 00:12:21,700
+340 km away
+
+223
+00:12:33,400 --> 00:12:34,466
+with great care
+
+224
+00:12:34,466 --> 00:12:37,066
+the components were assembled at the test site
+
+225
+00:12:38,200 --> 00:12:40,900
+the plutonium core was inserted into the bomb
+
+226
+00:12:40,900 --> 00:12:42,700
+nicknamed the gadget
+
+227
+00:12:45,300 --> 00:12:47,433
+under Oppenheimer's watchful eye
+
+228
+00:12:47,433 --> 00:12:49,666
+the team completed the final assembly
+
+229
+00:12:54,666 --> 00:12:55,933
+in the tower above
+
+230
+00:12:56,100 --> 00:12:58,933
+men were prepared to lift the bomb using hoists
+
+231
+00:12:59,266 --> 00:13:00,800
+while those below worked the pulleys
+
+232
+00:13:00,800 --> 00:13:02,866
+the team at the top monitored the process
+
+233
+00:13:02,866 --> 00:13:03,933
+using mirrors
+
+234
+00:13:05,300 --> 00:13:06,866
+once the bomb reached the top
+
+235
+00:13:06,866 --> 00:13:08,133
+the floor was sealed
+
+236
+00:13:08,133 --> 00:13:10,433
+and technicians wired and inspected the device
+
+237
+00:13:10,433 --> 00:13:13,200
+to ensure the test could proceed as planned
+
+238
+00:13:16,533 --> 00:13:18,666
+Oppenheimer notified General Groves
+
+239
+00:13:18,666 --> 00:13:20,800
+that the test was ready for July 16
+
+240
+00:13:23,300 --> 00:13:25,733
+Groves relayed the news to President Truman
+
+241
+00:13:25,733 --> 00:13:28,266
+who was already at the conference in Potsdam
+
+242
+00:13:30,100 --> 00:13:31,533
+on the morning of the test
+
+243
+00:13:31,600 --> 00:13:34,100
+light rain and distant lightning threatened a delay
+
+244
+00:13:34,600 --> 00:13:36,500
+but the skies eventually cleared
+
+245
+00:13:37,700 --> 00:13:39,400
+at 5 29 a m
+
+246
+00:13:39,400 --> 00:13:40,533
+on July 1945
+
+247
+00:13:40,533 --> 00:13:44,200
+the world's first atomic bomb was detonated
+
+248
+00:13:44,200 --> 00:13:45,800
+in the New Mexico desert
+
+249
+00:13:50,066 --> 00:13:52,200
+the atomic age had begun
+
+250
+00:13:56,133 --> 00:13:58,900
+The United States now possessed a weapon capable of
+
+251
+00:13:58,900 --> 00:14:01,866
+ending the war and compelling Japan to surrender
+
+252
+00:14:05,233 --> 00:14:07,900
+news of the successful test was sent immediately
+
+253
+00:14:07,900 --> 00:14:08,933
+to President Truman
+
+254
+00:14:08,933 --> 00:14:11,333
+in Potsdam via courier telegram
+
+255
+00:14:13,200 --> 00:14:14,433
+the message read
+
+256
+00:14:15,600 --> 00:14:17,200
+Doctor has just returned
+
+257
+00:14:17,200 --> 00:14:19,400
+most enthusiastic and confident
+
+258
+00:14:19,400 --> 00:14:22,233
+that the little boy is as husky as his big brother
+
+259
+00:14:25,333 --> 00:14:26,866
+a New York Times reporter
+
+260
+00:14:26,866 --> 00:14:28,866
+who was part of the official observation group
+
+261
+00:14:28,866 --> 00:14:30,400
+later described the moment
+
+262
+00:14:30,666 --> 00:14:34,200
+as if he were present when god created the first light
+
+263
+00:14:34,900 --> 00:14:37,600
+General Groves recorded in his classified report
+
+264
+00:14:37,600 --> 00:14:39,000
+that the bomb test was
+
+265
+00:14:39,100 --> 00:14:39,600
+probably
+
+266
+00:14:39,600 --> 00:14:42,266
+more important than the discovery of electricity
+
+267
+00:14:43,066 --> 00:14:44,100
+back at the control room
+
+268
+00:14:44,100 --> 00:14:47,033
+the scientists reacted with a mix of awe and unease
+
+269
+00:14:47,066 --> 00:14:48,133
+one of them remarked
+
+270
+00:14:48,333 --> 00:14:50,666
+we are probably now all sons of bitches
+
+271
+00:14:51,433 --> 00:14:53,333
+cigarettes and beer were passed around
+
+272
+00:14:53,333 --> 00:14:55,000
+in subdued Celebration
+
+273
+00:14:55,500 --> 00:14:59,633
+the explosion had been audible from 160 kilometers away
+
+274
+00:15:01,500 --> 00:15:03,266
+to avoid public alarm
+
+275
+00:15:03,633 --> 00:15:05,333
+a press release was issued
+
+276
+00:15:05,433 --> 00:15:05,933
+claiming that
+
+277
+00:15:05,933 --> 00:15:08,800
+a munitions depot had accidentally exploded
+
+278
+00:15:14,066 --> 00:15:16,500
+just hours after the successful test
+
+279
+00:15:16,533 --> 00:15:19,666
+the USS Indianapolis set sail from San Francisco
+
+280
+00:15:19,933 --> 00:15:22,233
+heading for the Pacific island of Tinian
+
+281
+00:15:23,466 --> 00:15:25,733
+on board were components and plutonium
+
+282
+00:15:25,733 --> 00:15:27,133
+for a second bomb
+
+283
+00:15:27,233 --> 00:15:29,200
+intended for use against Japan
+
+284
+00:15:34,533 --> 00:15:37,333
+meanwhile with news of the test in hand
+
+285
+00:15:37,333 --> 00:15:38,200
+President Truman
+
+286
+00:15:38,200 --> 00:15:40,266
+showed a noticeable shift in confidence
+
+287
+00:15:40,266 --> 00:15:41,100
+at Potsdam
+
+288
+00:15:42,300 --> 00:15:43,700
+as the conference continued
+
+289
+00:15:43,700 --> 00:15:46,133
+all Allied leaders were briefed on the new weapon
+
+290
+00:15:46,133 --> 00:15:48,933
+and its likely deployment in the Pacific theater
+
+291
+00:15:51,633 --> 00:15:53,666
+Truman felt particularly strengthened
+
+292
+00:15:53,666 --> 00:15:55,733
+in his interactions with Churchill
+
+293
+00:15:55,733 --> 00:15:56,666
+and Stalin
+
+294
+00:15:57,400 --> 00:15:58,800
+by the end of the conference
+
+295
+00:15:58,800 --> 00:16:01,633
+all of the allies had been informed about the new bomb
+
+296
+00:16:01,633 --> 00:16:03,700
+and its imminent deployment in Japan
+
+297
+00:16:04,000 --> 00:16:05,933
+I told Stalin
+
+298
+00:16:06,466 --> 00:16:08,466
+about the atomic explosion
+
+299
+00:16:09,066 --> 00:16:11,666
+which had been sold off on 16th day of July
+
+300
+00:16:11,666 --> 00:16:13,333
+down in Alamogordo
+
+301
+00:16:13,500 --> 00:16:15,866
+New Mexico and
+
+302
+00:16:16,233 --> 00:16:17,100
+explained to him
+
+303
+00:16:17,100 --> 00:16:19,200
+that we had the most powerful explosive
+
+304
+00:16:19,666 --> 00:16:21,733
+that had ever been discovered in the history of the world
+
+305
+00:16:21,733 --> 00:16:23,900
+and that we expected to use it on Japan
+
+306
+00:16:24,700 --> 00:16:26,833
+he smiled at me and
+
+307
+00:16:26,833 --> 00:16:29,933
+bowed and said he was glad we had the explosive
+
+308
+00:16:30,066 --> 00:16:32,633
+and he hoped that it would end the Japanese war
+
+309
+00:16:33,666 --> 00:16:36,133
+back in New Mexico Oppenheimer
+
+310
+00:16:36,133 --> 00:16:37,000
+General Groves
+
+311
+00:16:37,000 --> 00:16:39,233
+and the scientists visited the blast site
+
+312
+00:16:41,100 --> 00:16:43,133
+their hard work had paid off
+
+313
+00:16:44,233 --> 00:16:46,300
+the experiment had worked
+
+314
+00:16:48,233 --> 00:16:50,000
+Oppenheimer returned to Los Alamos
+
+315
+00:16:50,000 --> 00:16:51,800
+exhausted but reflective
+
+316
+00:16:54,066 --> 00:16:56,900
+he began to consider the bomb's next use
+
+317
+00:16:57,466 --> 00:16:59,733
+should there be a demonstration first
+
+318
+00:16:59,733 --> 00:17:02,933
+should the Japanese be warned and urged to surrender
+
+319
+00:17:03,500 --> 00:17:05,200
+what would his colleagues think
+
+320
+00:17:05,200 --> 00:17:07,533
+now that the theoretical had become real
+
+321
+00:17:08,500 --> 00:17:10,433
+the sight of the Los Alamos guardhouse
+
+322
+00:17:10,433 --> 00:17:11,900
+was a welcome relief
+
+323
+00:17:11,900 --> 00:17:13,466
+he was home at last
+
+324
+00:17:17,000 --> 00:17:18,033
+soon after returning
+
+325
+00:17:18,033 --> 00:17:20,533
+Oppenheimer convened a meeting of the scientific team
+
+326
+00:17:20,533 --> 00:17:23,433
+to address the ethical concerns that had emerged
+
+327
+00:17:24,133 --> 00:17:26,900
+in the Oak Ridge and Chicago Manhattan Project sites
+
+328
+00:17:27,200 --> 00:17:28,800
+many scientists signed a petition
+
+329
+00:17:28,800 --> 00:17:30,733
+urging the president that Japan
+
+330
+00:17:30,733 --> 00:17:33,400
+should first be given the opportunity to surrender
+
+331
+00:17:33,466 --> 00:17:34,433
+and that the weapon should
+
+332
+00:17:34,433 --> 00:17:36,533
+only be used as a last resort
+
+333
+00:17:38,433 --> 00:17:40,233
+more than 20 years later
+
+334
+00:17:40,300 --> 00:17:40,800
+Oppenheimer
+
+335
+00:17:40,800 --> 00:17:43,900
+recalled what he and his colleagues thought at the time
+
+336
+00:17:48,266 --> 00:17:50,900
+I think that it probably was assumed
+
+337
+00:17:51,266 --> 00:17:53,866
+it certainly was always assumed at Los Alamos
+
+338
+00:17:54,300 --> 00:17:56,233
+that if the war
+
+339
+00:17:56,900 --> 00:17:59,633
+were not over and not clearly
+
+340
+00:18:03,433 --> 00:18:05,433
+to be brought to a conclusion
+
+341
+00:18:06,400 --> 00:18:07,200
+by
+
+342
+00:18:07,833 --> 00:18:10,000
+diplomatic means uh
+
+343
+00:18:10,266 --> 00:18:12,066
+this weapon would play a part
+
+344
+00:18:12,600 --> 00:18:13,400
+um
+
+345
+00:18:14,100 --> 00:18:17,000
+I'm not sure that the men who sat around that room
+
+346
+00:18:17,466 --> 00:18:18,700
+all had the same
+
+347
+00:18:19,066 --> 00:18:21,433
+idea of what would happen with the bomb
+
+348
+00:18:22,833 --> 00:18:25,000
+General Groves blocked the petition
+
+349
+00:18:25,000 --> 00:18:28,066
+and the scientists effort to reach Truman directly
+
+350
+00:18:29,666 --> 00:18:31,866
+the president then issued the
+
+351
+00:18:32,100 --> 00:18:34,733
+the first atomic bomb would be dropped on Japan
+
+352
+00:18:37,466 --> 00:18:40,600
+by then the Indianapolis had reached Tinian Island
+
+353
+00:18:41,433 --> 00:18:43,500
+the bomb codenamed Little Boy
+
+354
+00:18:43,700 --> 00:18:45,400
+was carefully unloaded from the ship
+
+355
+00:18:45,400 --> 00:18:46,933
+and transported to a hangar
+
+356
+00:18:51,200 --> 00:18:52,700
+on the Eve of the mission
+
+357
+00:18:53,200 --> 00:18:55,066
+military technicians rolled the bomb
+
+358
+00:18:55,066 --> 00:18:57,066
+out to the waiting aircraft
+
+359
+00:19:01,700 --> 00:19:03,800
+tensions spread among the crew
+
+360
+00:19:05,000 --> 00:19:06,633
+rumours had circulated
+
+361
+00:19:06,666 --> 00:19:09,500
+that this was the weapon that could end the war
+
+362
+00:19:18,000 --> 00:19:20,400
+after several hours of careful preparation
+
+363
+00:19:20,400 --> 00:19:23,700
+the bomb was loaded into the Boeing B 29 aircraft
+
+364
+00:19:27,500 --> 00:19:30,733
+just before dawn the Annala Gay took off for Hiroshima
+
+365
+00:19:37,266 --> 00:19:38,700
+a few hours later
+
+366
+00:19:39,433 --> 00:19:41,733
+on the morning of Monday August 6 1945
+
+367
+00:19:41,733 --> 00:19:46,066
+the first atomic bomb ever used in warfare
+
+368
+00:19:46,066 --> 00:19:47,600
+was dropped on Hiroshima
+
+369
+00:19:55,300 --> 00:19:58,333
+this is the only known authentic footage
+
+370
+00:19:58,333 --> 00:19:59,600
+of the explosion
+
+371
+00:20:01,433 --> 00:20:04,866
+a blast that caused unprecedented devastation
+
+372
+00:20:07,266 --> 00:20:09,933
+meanwhile the final assembly of the second bomb
+
+373
+00:20:09,933 --> 00:20:12,233
+Montinian Island was nearing completion
+
+374
+00:20:12,600 --> 00:20:14,600
+a tactical and operational flight order
+
+375
+00:20:14,600 --> 00:20:15,633
+detailed the timing
+
+376
+00:20:15,633 --> 00:20:17,700
+logistics and other elements of the mission
+
+377
+00:20:18,900 --> 00:20:20,400
+codenamed Fat Man
+
+378
+00:20:20,433 --> 00:20:23,300
+the bomb was similar in design to the Trinity device
+
+379
+00:20:23,533 --> 00:20:26,666
+on August it was carefully removed from the hangar
+
+380
+00:20:26,666 --> 00:20:28,100
+and prepared for the mission
+
+381
+00:20:30,000 --> 00:20:32,133
+it was first painted with a sealant
+
+382
+00:20:42,333 --> 00:20:43,733
+then it was armed
+
+383
+00:20:44,100 --> 00:20:46,666
+and transported to the runway for looting
+
+384
+00:21:09,033 --> 00:21:12,800
+once again a B29 bomber was carefully prepared
+
+385
+00:21:12,800 --> 00:21:14,200
+and brought into position
+
+386
+00:21:15,933 --> 00:21:17,466
+it took off at dawn
+
+387
+00:21:18,700 --> 00:21:21,400
+on August 1945 the
+
+388
+00:21:21,666 --> 00:21:24,933
+second atomic bomb was dropped over Nagasaki
+
+389
+00:21:28,066 --> 00:21:30,633
+the city had been chosen as a secondary target
+
+390
+00:21:30,633 --> 00:21:32,500
+due to poor weather conditions
+
+391
+00:21:49,633 --> 00:21:51,200
+the Japanese military could offer
+
+392
+00:21:51,200 --> 00:21:53,033
+only minimal resistance
+
+393
+00:21:54,000 --> 00:21:57,333
+within a single month three atomic bombs were detonated
+
+394
+00:21:57,333 --> 00:21:58,633
+at Alamogordo
+
+395
+00:22:02,333 --> 00:22:03,233
+Hiroshima
+
+396
+00:22:03,866 --> 00:22:05,066
+and Nagasaki
+
+397
+00:22:06,033 --> 00:22:08,133
+the world was forever changed
+
+398
+00:22:10,600 --> 00:22:12,066
+the overwhelming destruction
+
+399
+00:22:12,066 --> 00:22:14,500
+LED to the expected surrender of Japan
+
+400
+00:22:14,533 --> 00:22:16,800
+bringing the Second World War to an end
+
+401
+00:22:21,833 --> 00:22:24,633
+following the bombings of Hiroshima and Nagasaki
+
+402
+00:22:24,666 --> 00:22:27,000
+Robert Oppenheimer and his fellow scientists
+
+403
+00:22:27,000 --> 00:22:28,633
+came under growing scrutiny
+
+404
+00:22:28,733 --> 00:22:30,933
+facing difficult questions about the ethics
+
+405
+00:22:30,933 --> 00:22:33,400
+and long term implications of their work
+
+406
+00:22:35,666 --> 00:22:38,200
+I remember that we first responded
+
+407
+00:22:38,400 --> 00:22:40,800
+to the question what do scientists think
+
+408
+00:22:41,033 --> 00:22:43,466
+by saying that they think a variety of things
+
+409
+00:22:43,466 --> 00:22:45,000
+and this is only natural
+
+410
+00:22:45,233 --> 00:22:47,066
+uh on the one hand they hoped
+
+411
+00:22:47,633 --> 00:22:51,066
+this instrument would never be used in war
+
+412
+00:22:52,833 --> 00:22:53,833
+and therefore
+
+413
+00:22:54,733 --> 00:22:56,233
+they hoped that we would not
+
+414
+00:22:57,266 --> 00:22:58,866
+start out by using it
+
+415
+00:22:59,100 --> 00:23:01,500
+on the other hand they hoped
+
+416
+00:23:03,066 --> 00:23:04,500
+or other people hoped
+
+417
+00:23:04,800 --> 00:23:06,866
+that it would put an end to this war
+
+418
+00:23:07,033 --> 00:23:07,833
+save
+
+419
+00:23:08,500 --> 00:23:10,800
+countless lives put an end to it
+
+420
+00:23:10,833 --> 00:23:12,000
+it would have come out
+
+421
+00:23:12,333 --> 00:23:14,700
+sooner or later in a congressional hearing
+
+422
+00:23:14,933 --> 00:23:16,066
+if nowhere else
+
+423
+00:23:16,233 --> 00:23:18,733
+just when we could have dropped the bomb
+
+424
+00:23:19,000 --> 00:23:20,200
+if we didn't use it
+
+425
+00:23:20,833 --> 00:23:22,066
+and then
+
+426
+00:23:22,400 --> 00:23:26,233
+knowing American politics you know as well as I do that
+
+427
+00:23:27,000 --> 00:23:28,333
+there'd been elections
+
+428
+00:23:28,333 --> 00:23:31,600
+fought on the basis that every mother whose son
+
+429
+00:23:31,933 --> 00:23:34,633
+was killed after such and such a date
+
+430
+00:23:35,333 --> 00:23:38,200
+uh the blood is on the head of the president
+
+431
+00:23:38,633 --> 00:23:39,666
+the question
+
+432
+00:23:39,900 --> 00:23:42,100
+was whether we want to save
+
+433
+00:23:42,433 --> 00:23:46,433
+our people and Japanese as well and win the war
+
+434
+00:23:46,533 --> 00:23:47,700
+or whether we want to
+
+435
+00:23:48,300 --> 00:23:51,800
+take a chance on being able to win the war
+
+436
+00:23:51,833 --> 00:23:53,666
+by killing all our young men
+
+437
+00:24:04,266 --> 00:24:05,800
+as peace returned
+
+438
+00:24:05,800 --> 00:24:09,100
+celebrations erupted across the United States
+
+439
+00:24:10,066 --> 00:24:11,300
+the war was over
+
+440
+00:24:11,300 --> 00:24:14,433
+and the American public welcomed victory with relief
+
+441
+00:24:14,433 --> 00:24:15,333
+and pride
+
+442
+00:24:16,033 --> 00:24:18,300
+Dr Robert Oppenheimer became a household name
+
+443
+00:24:18,300 --> 00:24:20,633
+for his role in creating the atomic bomb
+
+444
+00:24:20,633 --> 00:24:22,233
+and helping to end the war
+
+445
+00:24:23,833 --> 00:24:24,833
+meanwhile
+
+446
+00:24:25,233 --> 00:24:28,033
+President Truman saw the weapon as a powerful tool
+
+447
+00:24:28,033 --> 00:24:29,700
+to strengthen his position
+
+448
+00:24:29,933 --> 00:24:32,000
+both at home and on the global stage
+
+449
+00:24:32,000 --> 00:24:34,733
+and particularly vis a vis the Soviet Union
+
+450
+00:24:35,633 --> 00:24:38,200
+with encouragement from his military advisors
+
+451
+00:24:38,266 --> 00:24:39,933
+he began to pursue a strategy
+
+452
+00:24:39,933 --> 00:24:42,300
+of expanding US military dominance
+
+453
+00:24:42,300 --> 00:24:44,100
+through nuclear superiority
+
+454
+00:24:46,266 --> 00:24:48,733
+the bomb had changed not just warfare
+
+455
+00:24:48,833 --> 00:24:51,600
+but the direction of American military policy
+
+456
+00:24:54,666 --> 00:24:57,733
+as the war was shaping up and they were seeing that
+
+457
+00:24:57,733 --> 00:24:59,033
+with almost certainty
+
+458
+00:24:59,033 --> 00:25:01,033
+they were going to be able to make these bombs
+
+459
+00:25:01,400 --> 00:25:03,700
+my grandfather in particular
+
+460
+00:25:03,700 --> 00:25:06,533
+Neil Bor's influence started turning
+
+461
+00:25:06,633 --> 00:25:07,933
+their thoughts towards
+
+462
+00:25:07,933 --> 00:25:11,533
+could this power of these weapons end all war
+
+463
+00:25:11,533 --> 00:25:13,600
+that's what they started thinking about not
+
+464
+00:25:13,900 --> 00:25:15,233
+you know are we going to make these bombs
+
+465
+00:25:15,233 --> 00:25:16,900
+and then control these bombs themselves
+
+466
+00:25:16,900 --> 00:25:19,933
+but they saw that there was a change in humanity
+
+467
+00:25:19,933 --> 00:25:22,533
+the way humanity kind of relates to each other
+
+468
+00:25:22,666 --> 00:25:26,600
+because such powerful technology has been made
+
+469
+00:25:26,866 --> 00:25:31,300
+that you could end humanity if you have a total war
+
+470
+00:25:31,400 --> 00:25:33,233
+and that was something that the scientists really
+
+471
+00:25:33,233 --> 00:25:34,633
+started focusing on
+
+472
+00:25:34,633 --> 00:25:35,100
+and
+
+473
+00:25:35,100 --> 00:25:38,300
+that also furthermore there was a way to control that
+
+474
+00:25:38,433 --> 00:25:39,933
+and the military side
+
+475
+00:25:39,933 --> 00:25:40,600
+and the government
+
+476
+00:25:40,600 --> 00:25:42,900
+and the political side was not caught up to that
+
+477
+00:25:42,900 --> 00:25:44,500
+they were kind of still thinking of
+
+478
+00:25:44,733 --> 00:25:46,466
+these things like muskets or cannons
+
+479
+00:25:46,466 --> 00:25:47,133
+we have a weapon
+
+480
+00:25:47,133 --> 00:25:48,933
+let's make as many weapons as we can
+
+481
+00:25:48,933 --> 00:25:50,100
+and we'll be more powerful
+
+482
+00:25:50,100 --> 00:25:51,000
+and that's good
+
+483
+00:25:51,233 --> 00:25:53,000
+but the scientists
+
+484
+00:25:53,000 --> 00:25:54,466
+in particular my grandfather
+
+485
+00:25:54,466 --> 00:25:56,700
+Niels Bohr and some of the other scientists
+
+486
+00:25:56,866 --> 00:25:59,033
+thought that the significance of
+
+487
+00:25:59,033 --> 00:26:01,300
+of this particular type of technology
+
+488
+00:26:01,300 --> 00:26:03,100
+is that we would have to work together
+
+489
+00:26:03,100 --> 00:26:04,633
+in humanity in a new way
+
+490
+00:26:04,800 --> 00:26:05,800
+because if we didn't
+
+491
+00:26:05,800 --> 00:26:08,466
+it would inevitably end in an arms race
+
+492
+00:26:08,533 --> 00:26:10,800
+and then using the weapons against each other
+
+493
+00:26:10,800 --> 00:26:13,333
+and destroy everything and it it
+
+494
+00:26:14,733 --> 00:26:17,433
+turning towards that problem is what he did
+
+495
+00:26:17,433 --> 00:26:19,933
+while simultaneously finishing his duty
+
+496
+00:26:19,933 --> 00:26:21,533
+and his work that he had to do
+
+497
+00:26:21,633 --> 00:26:23,233
+which was fight a war
+
+498
+00:26:23,233 --> 00:26:25,066
+he was in a war like everybody else
+
+499
+00:26:26,466 --> 00:26:28,200
+meanwhile General Groves
+
+500
+00:26:28,200 --> 00:26:30,833
+had received a top secret memo from the US Army
+
+501
+00:26:30,833 --> 00:26:32,500
+Air Forces headquarters
+
+502
+00:26:33,100 --> 00:26:36,000
+dated September 1945 the
+
+503
+00:26:36,300 --> 00:26:38,000
+document laid out plans
+
+504
+00:26:38,000 --> 00:26:40,933
+to begin immediate mass production of atomic weapons
+
+505
+00:26:41,800 --> 00:26:44,300
+this was in direct opposition to what Oppenheimer
+
+506
+00:26:44,300 --> 00:26:45,266
+had hoped for
+
+507
+00:26:47,733 --> 00:26:50,100
+the memo identified the Soviet Union
+
+508
+00:26:50,100 --> 00:26:51,933
+as the likely future adversary
+
+509
+00:26:52,866 --> 00:26:55,200
+an optimum strike the memo continued
+
+510
+00:26:55,533 --> 00:26:58,833
+would target 66 cities of strategic importance
+
+511
+00:26:58,900 --> 00:27:00,066
+which would require
+
+512
+00:27:00,333 --> 00:27:02,033
+204 nuclear bombs
+
+513
+00:27:02,600 --> 00:27:04,300
+enough to destroy the country
+
+514
+00:27:09,800 --> 00:27:12,033
+by the fall of 1945
+
+515
+00:27:12,133 --> 00:27:13,866
+it was clear that the military wanted to
+
+516
+00:27:13,866 --> 00:27:16,100
+rapidly expand its nuclear arsenal
+
+517
+00:27:16,233 --> 00:27:17,500
+and this message was passed
+
+518
+00:27:17,500 --> 00:27:19,400
+directly to President Truman
+
+519
+00:27:22,400 --> 00:27:23,233
+at the same time
+
+520
+00:27:23,233 --> 00:27:24,700
+growing discontent was spreading
+
+521
+00:27:24,700 --> 00:27:26,866
+among many scientists at lost Alamos
+
+522
+00:27:27,066 --> 00:27:29,500
+who had not expected such escalation
+
+523
+00:27:31,400 --> 00:27:32,533
+Dr Oppenheimer
+
+524
+00:27:32,666 --> 00:27:34,733
+who presumably was aware of the memo
+
+525
+00:27:34,733 --> 00:27:36,300
+and the planned production of
+
+526
+00:27:36,300 --> 00:27:37,833
+204 atomic bombs
+
+527
+00:27:37,833 --> 00:27:39,233
+was deeply concerned
+
+528
+00:27:40,666 --> 00:27:43,900
+scientists at the lab urged him to take action
+
+529
+00:27:44,200 --> 00:27:45,533
+and deliver their concerns
+
+530
+00:27:45,533 --> 00:27:47,700
+directly to the secretary of war
+
+531
+00:27:48,233 --> 00:27:49,900
+and to the president
+
+532
+00:27:52,500 --> 00:27:56,266
+a recently uncovered memorandum describing a September
+
+533
+00:27:56,266 --> 00:27:59,833
+1945 meeting reveals the mounting tension
+
+534
+00:27:59,833 --> 00:28:01,833
+among those who had built the bomb
+
+535
+00:28:03,466 --> 00:28:05,100
+it noted there is
+
+536
+00:28:05,100 --> 00:28:06,833
+a distinct opposition on their part
+
+537
+00:28:06,833 --> 00:28:08,866
+to doing any more work on any bomb
+
+538
+00:28:08,866 --> 00:28:11,266
+not merely a super bomb but any bomb
+
+539
+00:28:12,466 --> 00:28:14,233
+Oppenheimer asked George Harrison
+
+540
+00:28:14,233 --> 00:28:16,033
+assistant to the secretary of war
+
+541
+00:28:16,033 --> 00:28:17,800
+to arrange a meeting with President Truman
+
+542
+00:28:17,800 --> 00:28:19,033
+as soon as possible
+
+543
+00:28:21,733 --> 00:28:25,333
+he still believed that open dialogue between scientists
+
+544
+00:28:25,333 --> 00:28:26,300
+political leaders
+
+545
+00:28:26,300 --> 00:28:27,100
+and nations
+
+546
+00:28:27,100 --> 00:28:29,600
+could help contain the role of nuclear weapons
+
+547
+00:28:29,600 --> 00:28:31,266
+in future conflicts
+
+548
+00:28:34,266 --> 00:28:36,600
+when General Groves Learned of the resistance
+
+549
+00:28:36,600 --> 00:28:37,733
+at Los Alamos
+
+550
+00:28:37,866 --> 00:28:40,300
+he quickly moved to divide the scientists into two
+
+551
+00:28:40,300 --> 00:28:41,600
+separate groups
+
+552
+00:28:43,733 --> 00:28:47,666
+one group would continue with non military research
+
+553
+00:28:48,733 --> 00:28:51,666
+the other would work on new atomic weapons
+
+554
+00:28:54,666 --> 00:28:57,100
+to build 204 bombs
+
+555
+00:28:57,100 --> 00:28:59,333
+the military needed a larger facility
+
+556
+00:28:59,333 --> 00:29:01,400
+that could operate around the clock
+
+557
+00:29:02,200 --> 00:29:04,800
+Los Alamos was no longer adequate
+
+558
+00:29:05,900 --> 00:29:07,633
+plans were drawn up for a new base
+
+559
+00:29:07,633 --> 00:29:09,466
+near Albuquerque called Sandia
+
+560
+00:29:12,000 --> 00:29:14,800
+there bomb design and production would continue
+
+561
+00:29:15,066 --> 00:29:18,000
+storage bunkers were included in the plans
+
+562
+00:29:23,233 --> 00:29:25,300
+in October 1945
+
+563
+00:29:25,300 --> 00:29:28,333
+two key military developments took place in New Mexico
+
+564
+00:29:31,000 --> 00:29:31,733
+the first
+
+565
+00:29:31,733 --> 00:29:34,833
+was the departure of the 509th Composite Group
+
+566
+00:29:34,900 --> 00:29:37,066
+the same unit that had dropped the bombs
+
+567
+00:29:37,133 --> 00:29:38,433
+from Tinian Island
+
+568
+00:29:38,433 --> 00:29:40,700
+for their new posting at Walker Army Air Base
+
+569
+00:29:40,700 --> 00:29:41,666
+in Roswell
+
+570
+00:29:43,066 --> 00:29:44,933
+the base was designed to support B
+
+571
+00:29:45,133 --> 00:29:48,000
+29 bombers and prepare them for atomic missions
+
+572
+00:29:49,866 --> 00:29:50,866
+the Annulla Gaye
+
+573
+00:29:51,400 --> 00:29:52,833
+which had bombed Hiroshima
+
+574
+00:29:53,200 --> 00:29:54,600
+was part of this transfer
+
+575
+00:29:55,500 --> 00:29:57,500
+colonel Patrick Henry Sanders
+
+576
+00:29:57,500 --> 00:29:59,333
+was the assistant base commander
+
+577
+00:30:01,800 --> 00:30:02,833
+his daughter Susan
+
+578
+00:30:02,833 --> 00:30:06,266
+still recalls the importance of the Roswell Air Base
+
+579
+00:30:06,733 --> 00:30:09,833
+the importance of Roswell was it was the only
+
+580
+00:30:10,033 --> 00:30:14,666
+nuclear strike force base in the world at the time
+
+581
+00:30:15,133 --> 00:30:16,533
+it was the
+
+582
+00:30:17,333 --> 00:30:19,033
+the place that
+
+583
+00:30:19,933 --> 00:30:22,033
+had the nuclear bombs
+
+584
+00:30:22,233 --> 00:30:24,266
+and was
+
+585
+00:30:24,400 --> 00:30:25,733
+highly classified
+
+586
+00:30:25,733 --> 00:30:28,866
+information that was going on between Los Alamos
+
+587
+00:30:28,866 --> 00:30:30,066
+and Al Magordo
+
+588
+00:30:30,066 --> 00:30:34,066
+and Fort Bliss and Roswell
+
+589
+00:30:34,866 --> 00:30:36,066
+the second development
+
+590
+00:30:36,066 --> 00:30:38,633
+was the arrival of the first German V2 rockets
+
+591
+00:30:38,633 --> 00:30:41,600
+at the newly established White Sands Proving Grounds
+
+592
+00:30:41,600 --> 00:30:44,866
+formerly the Alamogordo Bombing and Gunnery Range
+
+593
+00:30:44,866 --> 00:30:47,033
+where the first atomic bomb had been tested
+
+594
+00:30:47,033 --> 00:30:48,666
+just two months earlier
+
+595
+00:30:51,866 --> 00:30:54,466
+a military report by General Hap Arnold
+
+596
+00:30:54,600 --> 00:30:56,933
+urged the United States to pursue a nuclear
+
+597
+00:30:56,933 --> 00:30:58,266
+armed rocket program
+
+598
+00:30:59,666 --> 00:31:02,833
+the German technology was now in American hands
+
+599
+00:31:03,666 --> 00:31:05,800
+Oppenheimer Learned of both events
+
+600
+00:31:05,800 --> 00:31:08,633
+and saw the direction military policy was taking
+
+601
+00:31:11,866 --> 00:31:14,800
+the acceleration of nuclear weapons development
+
+602
+00:31:14,800 --> 00:31:16,133
+deeply troubled him
+
+603
+00:31:19,533 --> 00:31:23,266
+he submitted his resignation as director of Los Alamos
+
+604
+00:31:29,500 --> 00:31:32,533
+news of Oppenheimer's resignation spread quickly
+
+605
+00:31:32,533 --> 00:31:33,833
+through Los Alamos
+
+606
+00:31:35,300 --> 00:31:36,200
+General Groves
+
+607
+00:31:36,200 --> 00:31:38,300
+and the scientific team wanted to honor Oppenheimer
+
+608
+00:31:38,300 --> 00:31:39,700
+before his departure
+
+609
+00:31:40,233 --> 00:31:42,666
+a ceremony to Mark the bestowal of the Army
+
+610
+00:31:42,666 --> 00:31:43,800
+Navy Excellence Award
+
+611
+00:31:43,800 --> 00:31:45,300
+was the perfect opportunity
+
+612
+00:31:46,100 --> 00:31:49,633
+Oppenheimer decided the e award ceremony on October
+
+613
+00:31:49,633 --> 00:31:52,633
+1945 would be his last day at the lab
+
+614
+00:31:54,200 --> 00:31:57,866
+the event was both a Celebration and a solemn goodbye
+
+615
+00:31:59,100 --> 00:32:00,266
+in his speech
+
+616
+00:32:00,466 --> 00:32:00,900
+Oppenheimer
+
+617
+00:32:00,900 --> 00:32:03,866
+would voice the concerns that weighed heavily on him
+
+618
+00:32:06,433 --> 00:32:08,466
+General Groves introduced Dr
+
+619
+00:32:08,466 --> 00:32:11,533
+Oppenheimer to the assembled guests and staff
+
+620
+00:32:15,900 --> 00:32:18,700
+after receiving his certificate of appreciation
+
+621
+00:32:18,933 --> 00:32:20,800
+Oppenheimer addressed the gathering
+
+622
+00:32:20,800 --> 00:32:23,033
+with a short but powerful speech
+
+623
+00:32:24,700 --> 00:32:26,500
+it is our hope Oppenheimer said
+
+624
+00:32:26,700 --> 00:32:28,033
+that in years to come
+
+625
+00:32:28,033 --> 00:32:29,700
+we may look at this scroll
+
+626
+00:32:29,733 --> 00:32:31,866
+and all that it signifies with pride
+
+627
+00:32:32,433 --> 00:32:33,266
+today
+
+628
+00:32:33,266 --> 00:32:36,833
+that pride must be tempered with a profound concern
+
+629
+00:32:37,500 --> 00:32:40,066
+if atomic bombs are to be added as new weapons
+
+630
+00:32:40,066 --> 00:32:42,133
+to the arsenals of a warring world
+
+631
+00:32:42,466 --> 00:32:45,300
+or to the arsenals of nations preparing for war
+
+632
+00:32:45,700 --> 00:32:48,200
+then the time will come when mankind will curse
+
+633
+00:32:48,200 --> 00:32:49,533
+the name of Los Alamos
+
+634
+00:32:49,533 --> 00:32:50,500
+and of Hiroshima
+
+635
+00:32:51,800 --> 00:32:54,033
+the peoples of this world must unite
+
+636
+00:32:54,033 --> 00:32:55,500
+or they will perish
+
+637
+00:32:58,800 --> 00:33:02,300
+his words reflected deep anxiety about the future
+
+638
+00:33:02,600 --> 00:33:06,100
+his warning moved many of those who listened that day
+
+639
+00:33:10,400 --> 00:33:11,666
+the Los Alamos community
+
+640
+00:33:11,666 --> 00:33:13,900
+was shaken by Oppenheimer's departure
+
+641
+00:33:14,333 --> 00:33:17,300
+his exit only heightened anticipation for the meeting
+
+642
+00:33:17,300 --> 00:33:18,100
+at the White House
+
+643
+00:33:18,100 --> 00:33:19,500
+with President Truman
+
+644
+00:33:19,733 --> 00:33:22,400
+which was set to go forward despite his resignation
+
+645
+00:33:26,666 --> 00:33:28,600
+Oppenheimer remained convinced that
+
+646
+00:33:28,600 --> 00:33:31,066
+open communication between scientists
+
+647
+00:33:31,066 --> 00:33:32,100
+political leaders
+
+648
+00:33:32,100 --> 00:33:34,300
+and the international community was essential
+
+649
+00:33:34,300 --> 00:33:36,666
+to limit the threat of nuclear weapons
+
+650
+00:33:37,466 --> 00:33:38,533
+this was the message
+
+651
+00:33:38,533 --> 00:33:40,666
+he wanted to give to President Truman
+
+652
+00:33:41,000 --> 00:33:44,433
+but Truman granted him only a 30 minute meeting
+
+653
+00:33:49,433 --> 00:33:51,666
+openheimer now a civilian
+
+654
+00:33:52,100 --> 00:33:53,866
+was entering a political arena
+
+655
+00:33:53,866 --> 00:33:55,533
+where he held little sway
+
+656
+00:33:57,266 --> 00:33:59,666
+secretary of Commerce Henry Wallace
+
+657
+00:33:59,733 --> 00:34:01,333
+who observed his arrival
+
+658
+00:34:01,500 --> 00:34:02,700
+wrote in his diary
+
+659
+00:34:04,200 --> 00:34:06,900
+I never saw a man in such a nervous state
+
+660
+00:34:06,900 --> 00:34:07,833
+as Oppenheimer
+
+661
+00:34:08,633 --> 00:34:09,633
+he seemed to feel that
+
+662
+00:34:09,633 --> 00:34:12,300
+the destruction of the human race was imminent
+
+663
+00:34:16,933 --> 00:34:18,433
+Truman and Oppenheimer
+
+664
+00:34:18,433 --> 00:34:19,666
+had very different visions
+
+665
+00:34:19,666 --> 00:34:21,666
+for the future of nuclear weapons
+
+666
+00:34:22,866 --> 00:34:24,400
+Truman was already moving ahead
+
+667
+00:34:24,400 --> 00:34:26,133
+with plans to adapt German V2
+
+668
+00:34:26,133 --> 00:34:27,133
+rocket technology
+
+669
+00:34:27,133 --> 00:34:28,466
+for atomic delivery
+
+670
+00:34:30,033 --> 00:34:31,700
+observers said Oppenheimer
+
+671
+00:34:31,833 --> 00:34:32,633
+appeared as if
+
+672
+00:34:32,633 --> 00:34:35,666
+he carried the weight of the world on his shoulders
+
+673
+00:34:38,400 --> 00:34:39,666
+when the meeting began
+
+674
+00:34:40,133 --> 00:34:41,800
+President Truman asked him
+
+675
+00:34:42,633 --> 00:34:43,800
+Dr Oppenheimer
+
+676
+00:34:44,066 --> 00:34:46,633
+when will the Russians develop a nuclear weapon
+
+677
+00:34:52,500 --> 00:34:53,533
+Oppenheimer replied
+
+678
+00:34:53,833 --> 00:34:55,866
+Mr President I don't know
+
+679
+00:34:56,500 --> 00:34:58,666
+Truman raised his voice and said never
+
+680
+00:34:59,233 --> 00:35:00,800
+then he made a statement
+
+681
+00:35:02,300 --> 00:35:05,400
+we have spent more than $2 billion
+
+682
+00:35:05,400 --> 00:35:08,533
+on the greatest scientific gamble in history
+
+683
+00:35:09,000 --> 00:35:10,400
+and we have won
+
+684
+00:35:11,433 --> 00:35:12,800
+but the greatest marvel
+
+685
+00:35:12,800 --> 00:35:15,233
+is not the size of the enterprise
+
+686
+00:35:15,400 --> 00:35:18,100
+its secrecy or its cost
+
+687
+00:35:18,533 --> 00:35:21,033
+but the achievement of scientific brains
+
+688
+00:35:21,033 --> 00:35:22,333
+in making it work
+
+689
+00:35:22,900 --> 00:35:24,133
+we have made a thing
+
+690
+00:35:24,600 --> 00:35:26,100
+a most terrible weapon
+
+691
+00:35:26,633 --> 00:35:29,033
+that has altered abruptly and profoundly
+
+692
+00:35:29,033 --> 00:35:30,300
+the nature of the world
+
+693
+00:35:31,000 --> 00:35:31,933
+we have made a thing that
+
+694
+00:35:31,933 --> 00:35:34,500
+by all the standards of the world we grew up in
+
+695
+00:35:34,500 --> 00:35:35,700
+is an evil thing
+
+696
+00:35:36,200 --> 00:35:38,200
+well there's one thing I can say to you
+
+697
+00:35:38,200 --> 00:35:40,133
+that any schoolboy's hindsights
+
+698
+00:35:40,233 --> 00:35:42,800
+worth all the presents are a generous foresight
+
+699
+00:35:43,133 --> 00:35:43,800
+don't you know that
+
+700
+00:35:43,800 --> 00:35:46,000
+any school boy's afterthoughts worth more than all
+
+701
+00:35:46,000 --> 00:35:47,233
+a generous forethought
+
+702
+00:35:47,400 --> 00:35:50,066
+so afterthoughts and things after the fact
+
+703
+00:35:50,200 --> 00:35:52,200
+have no effect on making a decision
+
+704
+00:35:52,200 --> 00:35:53,100
+when it's time to make it
+
+705
+00:35:53,100 --> 00:35:54,000
+at the time
+
+706
+00:35:54,033 --> 00:35:56,266
+you have to work on what you know at that time
+
+707
+00:35:56,433 --> 00:35:58,400
+that's what I did and I'm not sorry for it
+
+708
+00:36:00,466 --> 00:36:03,400
+Oppenheimer looked President Truman in the eye and said
+
+709
+00:36:03,700 --> 00:36:07,066
+Mr President I feel I have blood on my hands
+
+710
+00:36:07,733 --> 00:36:10,666
+the remark infuriated Truman who replied
+
+711
+00:36:11,600 --> 00:36:14,000
+listen the blood is on my hands
+
+712
+00:36:14,000 --> 00:36:15,900
+you let me worry about that
+
+713
+00:36:17,533 --> 00:36:19,733
+after the meeting Truman was heard muttering
+
+714
+00:36:20,066 --> 00:36:21,866
+blood on his hands damn it
+
+715
+00:36:22,133 --> 00:36:24,666
+he hasn't half as much blood on his hands as I have
+
+716
+00:36:25,200 --> 00:36:27,500
+you just don't go around bellyaching about it
+
+717
+00:36:28,466 --> 00:36:31,500
+Truman insisted that nuclear war must be conducted
+
+718
+00:36:31,500 --> 00:36:32,800
+without tears
+
+719
+00:36:33,666 --> 00:36:36,266
+he later instructed secretary of State Dean
+
+720
+00:36:37,233 --> 00:36:38,833
+I don't want to see that son of a bitch
+
+721
+00:36:38,833 --> 00:36:40,333
+in this office ever again
+
+722
+00:36:40,466 --> 00:36:43,000
+he didn't set that bomb off I did
+
+723
+00:36:46,133 --> 00:36:47,433
+in other comments
+
+724
+00:36:47,433 --> 00:36:51,466
+Truman dismissed Oppenheimer as a crybaby scientist
+
+725
+00:36:52,600 --> 00:36:53,233
+it was clear
+
+726
+00:36:53,233 --> 00:36:55,300
+the two men had fundamentally different views
+
+727
+00:36:55,300 --> 00:36:57,900
+on the meaning and future of nuclear weapons
+
+728
+00:36:58,666 --> 00:37:00,633
+when Oppenheimer exited the White House
+
+729
+00:37:00,633 --> 00:37:02,066
+reporters immediately asked him
+
+730
+00:37:02,066 --> 00:37:03,400
+how the meeting had gone
+
+731
+00:37:05,400 --> 00:37:08,400
+in the years to come it will be possible to kill
+
+732
+00:37:08,633 --> 00:37:10,666
+40 million American people
+
+733
+00:37:10,866 --> 00:37:13,666
+in the 20 largest American towns
+
+734
+00:37:14,433 --> 00:37:17,733
+by the use of atomic bombs in a single night
+
+735
+00:37:18,466 --> 00:37:21,400
+I am afraid that the answer to that question is yes
+
+736
+00:37:21,500 --> 00:37:22,866
+I think the only hope
+
+737
+00:37:23,466 --> 00:37:27,200
+for our future safety must lie in a collaboration
+
+738
+00:37:27,466 --> 00:37:29,666
+based on confidence and good faith
+
+739
+00:37:30,100 --> 00:37:31,800
+with the other peoples of the world
+
+740
+00:37:32,900 --> 00:37:34,900
+several universities Learned that Dr
+
+741
+00:37:34,900 --> 00:37:37,633
+Oppenheimer wished to return to academic life
+
+742
+00:37:37,900 --> 00:37:39,533
+he received numerous offers
+
+743
+00:37:39,533 --> 00:37:42,033
+including from the California Institute of technology
+
+744
+00:37:42,033 --> 00:37:43,033
+in Pasadena
+
+745
+00:37:44,433 --> 00:37:46,866
+Oppenheimer decided not to accept a full time
+
+746
+00:37:46,866 --> 00:37:48,033
+faculty position
+
+747
+00:37:48,066 --> 00:37:49,666
+and instead gave lectures
+
+748
+00:37:50,266 --> 00:37:52,500
+although he now had more time with his family
+
+749
+00:37:52,700 --> 00:37:55,800
+he realized that his heart was no longer in teaching
+
+750
+00:37:57,033 --> 00:37:58,933
+he still held a security clearance
+
+751
+00:37:58,933 --> 00:38:01,100
+and remained involved in national policy
+
+752
+00:38:01,266 --> 00:38:01,700
+serving
+
+753
+00:38:01,700 --> 00:38:04,033
+on the board of the Atomic Development Authority
+
+754
+00:38:04,066 --> 00:38:06,033
+later the Atomic Energy Commission
+
+755
+00:38:08,033 --> 00:38:10,200
+he continued advocating for the controlled
+
+756
+00:38:10,200 --> 00:38:12,033
+exchange of nuclear knowledge
+
+757
+00:38:12,033 --> 00:38:13,400
+the foundation of a global
+
+758
+00:38:13,400 --> 00:38:15,500
+network of nuclear scientists
+
+759
+00:38:15,600 --> 00:38:18,500
+and the global limitation of nuclear arms
+
+760
+00:38:20,466 --> 00:38:21,900
+he spoke publicly
+
+761
+00:38:21,900 --> 00:38:25,400
+about both the dangers and the hope of the atomic age
+
+762
+00:38:25,733 --> 00:38:28,800
+often quoting Lincoln's Gettysburg Address
+
+763
+00:38:31,300 --> 00:38:34,200
+as a statesman he left a lasting impression
+
+764
+00:38:34,533 --> 00:38:36,400
+he appeared on the covers of Time
+
+765
+00:38:36,400 --> 00:38:38,733
+Life and other national magazines
+
+766
+00:38:39,300 --> 00:38:42,300
+and was nominated four times for the Nobel Prize
+
+767
+00:38:42,300 --> 00:38:43,400
+in physics
+
+768
+00:38:44,066 --> 00:38:45,266
+during this period
+
+769
+00:38:45,300 --> 00:38:48,233
+Oppenheimer emerged as a leading public intellectual
+
+770
+00:38:48,400 --> 00:38:50,866
+regularly consulted on science and policy
+
+771
+00:38:50,866 --> 00:38:52,033
+by both American and
+
+772
+00:38:52,033 --> 00:38:53,433
+international figures
+
+773
+00:38:57,100 --> 00:39:01,233
+in 1947 Oppenheimer was invited by Lewis Strauss
+
+774
+00:39:01,300 --> 00:39:03,066
+to become the director of the Institute
+
+775
+00:39:03,066 --> 00:39:04,000
+for Advanced Study
+
+776
+00:39:04,000 --> 00:39:05,666
+in Princeton New Jersey
+
+777
+00:39:06,800 --> 00:39:08,900
+this role allowed him to continue his work
+
+778
+00:39:08,900 --> 00:39:10,100
+with leading scientists
+
+779
+00:39:10,100 --> 00:39:12,000
+and expand his influence
+
+780
+00:39:15,133 --> 00:39:15,433
+but
+
+781
+00:39:15,433 --> 00:39:18,133
+the partnership with Strauss would later prove fateful
+
+782
+00:39:18,300 --> 00:39:21,000
+and result in the loss of his security clearance
+
+783
+00:39:28,633 --> 00:39:30,900
+at the urging of Dr Edward Teller
+
+784
+00:39:30,900 --> 00:39:32,866
+a former colleague from Los Alamos
+
+785
+00:39:33,233 --> 00:39:34,833
+the US Congress was persuaded
+
+786
+00:39:34,833 --> 00:39:37,000
+to fund the development of a more powerful
+
+787
+00:39:37,000 --> 00:39:38,133
+hydrogen bomb
+
+788
+00:39:40,666 --> 00:39:42,833
+Oppenheimer opposed the project
+
+789
+00:39:42,833 --> 00:39:45,266
+and appealed to Congress to halt funding
+
+790
+00:39:49,333 --> 00:39:51,866
+his opposition angered Strauss
+
+791
+00:39:52,133 --> 00:39:53,700
+who had become chairman of the US
+
+792
+00:39:53,700 --> 00:39:55,133
+Atomic Energy Commission
+
+793
+00:39:57,500 --> 00:39:59,200
+alongside President Eisenhower
+
+794
+00:39:59,200 --> 00:40:02,433
+Strauss championed a more aggressive military posture
+
+795
+00:40:05,100 --> 00:40:06,100
+in public hearings
+
+796
+00:40:06,100 --> 00:40:08,833
+Oppenheimer's resistance embarrassed Chairman Strauss
+
+797
+00:40:09,066 --> 00:40:10,533
+it was the final straw
+
+798
+00:40:11,633 --> 00:40:12,333
+soon afterwards
+
+799
+00:40:12,333 --> 00:40:14,600
+Strauss and a small circle in Washington
+
+800
+00:40:14,633 --> 00:40:16,200
+among them FBI Director
+
+801
+00:40:16,200 --> 00:40:17,066
+J Edgar Hoover
+
+802
+00:40:17,133 --> 00:40:19,800
+began circulating false claims that Oppenheimer
+
+803
+00:40:19,866 --> 00:40:21,433
+was tied to communists
+
+804
+00:40:21,433 --> 00:40:23,500
+and posed a national security risk
+
+805
+00:40:28,333 --> 00:40:31,200
+despite objections from local FBI agents
+
+806
+00:40:31,300 --> 00:40:33,200
+some conversations between Oppenheimer
+
+807
+00:40:33,200 --> 00:40:34,133
+and his legal team
+
+808
+00:40:34,133 --> 00:40:35,633
+were secretly recorded
+
+809
+00:40:36,700 --> 00:40:38,633
+his attorney Lloyd Garrison
+
+810
+00:40:38,633 --> 00:40:41,033
+was not permitted to know the full list of witnesses
+
+811
+00:40:41,033 --> 00:40:41,833
+that could be called
+
+812
+00:40:41,833 --> 00:40:42,666
+at the hearing
+
+813
+00:40:43,700 --> 00:40:45,700
+on several occasions during the hearing
+
+814
+00:40:45,833 --> 00:40:47,866
+garrison was asked to leave the room
+
+815
+00:40:47,866 --> 00:40:50,200
+when classified matters were discussed
+
+816
+00:40:54,866 --> 00:40:56,100
+a list of more than
+
+817
+00:40:56,200 --> 00:40:57,833
+40 witnesses was presented
+
+818
+00:40:58,000 --> 00:41:00,466
+yet no concrete evidence was produced
+
+819
+00:41:01,333 --> 00:41:05,133
+the hearing became an inquisition aimed not at justice
+
+820
+00:41:05,200 --> 00:41:07,133
+but at discrediting Oppenheimer
+
+821
+00:41:09,000 --> 00:41:12,900
+I was completely responsible for the selection of Dr
+
+822
+00:41:13,266 --> 00:41:14,266
+Oppenheimer
+
+823
+00:41:14,866 --> 00:41:18,833
+as the head of the Los Alamos bomb laboratory
+
+824
+00:41:20,066 --> 00:41:21,500
+nothing has happened
+
+825
+00:41:22,866 --> 00:41:24,733
+during the affair
+
+826
+00:41:24,733 --> 00:41:25,900
+or afterwards
+
+827
+00:41:26,233 --> 00:41:30,266
+it LED me to believe that that was not a wise choice
+
+828
+00:41:30,666 --> 00:41:32,433
+after the decision was made
+
+829
+00:41:32,433 --> 00:41:34,133
+Strauss called Oppenheimer
+
+830
+00:41:34,133 --> 00:41:35,266
+to inform him
+
+831
+00:41:35,266 --> 00:41:37,866
+that his security clearance had been revoked
+
+832
+00:41:38,300 --> 00:41:39,666
+the response was swift
+
+833
+00:41:40,633 --> 00:41:44,600
+494 scientists from Los Alamos signed a protest
+
+834
+00:41:44,833 --> 00:41:46,400
+risking their careers
+
+835
+00:41:51,933 --> 00:41:53,833
+declassified records
+
+836
+00:41:53,833 --> 00:41:56,200
+including the full hearing transcripts
+
+837
+00:41:56,533 --> 00:42:00,000
+confirm that no credible evidence was ever presented
+
+838
+00:42:03,733 --> 00:42:06,500
+notes from Oppenheimer's longtime secretary
+
+839
+00:42:06,500 --> 00:42:07,700
+Dorothy Mckibben
+
+840
+00:42:08,400 --> 00:42:10,666
+showed that on the day the FBI alleged
+
+841
+00:42:10,666 --> 00:42:12,266
+he met a communist sympathizer
+
+842
+00:42:12,266 --> 00:42:15,833
+in Berkeley he was actually in New Mexico
+
+843
+00:42:23,600 --> 00:42:25,666
+Oppenheimer's disillusionment was clear
+
+844
+00:42:25,666 --> 00:42:27,900
+in the statements he gave after the ruling
+
+845
+00:42:34,300 --> 00:42:35,433
+what your thoughts are
+
+846
+00:42:35,433 --> 00:42:37,900
+about what our atomic policy should be
+
+847
+00:42:38,400 --> 00:42:41,433
+no I I I can't do that I'm not
+
+848
+00:42:41,733 --> 00:42:43,066
+not close enough to
+
+849
+00:42:44,233 --> 00:42:47,333
+the facts am I not close enough to the
+
+850
+00:42:48,000 --> 00:42:49,833
+to the thoughts of those who
+
+851
+00:42:51,200 --> 00:42:52,433
+are worrying about it
+
+852
+00:42:53,533 --> 00:42:57,100
+it is very clear that the concept thou shalt not kill
+
+853
+00:42:57,333 --> 00:42:59,833
+has been complicated in recent years
+
+854
+00:43:05,900 --> 00:43:07,600
+science has profoundly
+
+855
+00:43:07,600 --> 00:43:10,033
+altered the conditions of man's life
+
+856
+00:43:10,933 --> 00:43:14,200
+both materially and in ways of the spirit as well
+
+857
+00:43:15,000 --> 00:43:17,266
+this extended the range of questions
+
+858
+00:43:17,466 --> 00:43:19,200
+in which man has a choice
+
+859
+00:43:19,900 --> 00:43:21,700
+this extended man's freedom
+
+860
+00:43:22,100 --> 00:43:24,066
+to make significant decisions
+
+861
+00:43:24,733 --> 00:43:26,200
+no one can predict
+
+862
+00:43:26,266 --> 00:43:28,733
+what vast new continents of knowledge
+
+863
+00:43:28,733 --> 00:43:31,033
+the future of science will discover
+
+864
+00:43:31,633 --> 00:43:32,200
+but we know that
+
+865
+00:43:32,200 --> 00:43:34,800
+as long as men are free to ask what they will
+
+866
+00:43:35,033 --> 00:43:36,633
+free to say what they think
+
+867
+00:43:36,633 --> 00:43:38,233
+free to think what they must
+
+868
+00:43:38,533 --> 00:43:40,400
+science will never regress
+
+869
+00:43:41,000 --> 00:43:43,666
+and freedom itself will never be wholly lost
+
+870
+00:43:45,700 --> 00:43:47,400
+the revocation of his clearance
+
+871
+00:43:47,400 --> 00:43:48,100
+effectively
+
+872
+00:43:48,100 --> 00:43:50,633
+ended Oppenheimer's influence in government
+
+873
+00:43:50,633 --> 00:43:52,600
+and cut him off from the very world
+
+874
+00:43:52,600 --> 00:43:53,900
+he had helped shape
+
+875
+00:43:56,066 --> 00:43:59,033
+he later described the security hearing as a farce
+
+876
+00:43:59,600 --> 00:44:01,033
+though he continued to lecture
+
+877
+00:44:01,033 --> 00:44:03,533
+he spent increasing time at his secluded retreat
+
+878
+00:44:03,533 --> 00:44:04,933
+on the island of ST John
+
+879
+00:44:04,933 --> 00:44:05,466
+in the U s
+
+880
+00:44:05,466 --> 00:44:06,500
+Virgin Islands
+
+881
+00:44:07,133 --> 00:44:09,066
+there he built a modest beach house
+
+882
+00:44:09,066 --> 00:44:11,333
+and spent his days sailing with his wife Kitty
+
+883
+00:44:11,333 --> 00:44:12,466
+and daughter Tony
+
+884
+00:44:13,533 --> 00:44:17,066
+despite his isolation international admiration endured
+
+885
+00:44:17,100 --> 00:44:18,133
+in 1957
+
+886
+00:44:18,133 --> 00:44:20,800
+France made him an officer of the Legion of honor
+
+887
+00:44:24,900 --> 00:44:27,100
+your thinking reflects that of Socrates
+
+888
+00:44:27,733 --> 00:44:29,400
+do you believe that for scientists
+
+889
+00:44:29,400 --> 00:44:31,266
+what is important is to know oneself
+
+890
+00:44:34,466 --> 00:44:37,133
+for everybody not just for scientists
+
+891
+00:44:40,866 --> 00:44:41,500
+do you believe that
+
+892
+00:44:41,500 --> 00:44:43,600
+scientists are better able to know themselves
+
+893
+00:44:43,600 --> 00:44:44,066
+through their work
+
+894
+00:44:44,066 --> 00:44:45,266
+and their discoveries
+
+895
+00:44:47,400 --> 00:44:49,933
+no no it's a separate thing
+
+896
+00:44:52,733 --> 00:44:54,300
+in 1963
+
+897
+00:44:54,300 --> 00:44:57,266
+in an effort to acknowledge the injustice of the past
+
+898
+00:44:57,466 --> 00:44:58,433
+President John F
+
+899
+00:44:58,433 --> 00:45:01,233
+Kennedy's advisors proposed awarding Oppenheimer
+
+900
+00:45:01,266 --> 00:45:02,866
+the Enrico Ferrai Award
+
+901
+00:45:04,833 --> 00:45:06,433
+Kennedy an admirer
+
+902
+00:45:06,466 --> 00:45:07,700
+approved the gesture
+
+903
+00:45:07,700 --> 00:45:10,333
+and set a date for a ceremony at the White House
+
+904
+00:45:14,466 --> 00:45:16,666
+but just one week before the event
+
+905
+00:45:16,733 --> 00:45:18,400
+Kennedy was assassinated
+
+906
+00:45:19,666 --> 00:45:21,666
+his successor President Lyndon B
+
+907
+00:45:21,666 --> 00:45:23,466
+Johnson presented the award
+
+908
+00:45:27,933 --> 00:45:31,233
+I think it just possible Mr President
+
+909
+00:45:31,900 --> 00:45:33,600
+that it has taken some charity
+
+910
+00:45:34,133 --> 00:45:37,400
+and some courage you to make this award today
+
+911
+00:45:38,700 --> 00:45:40,200
+despite her grief
+
+912
+00:45:40,200 --> 00:45:42,533
+Jacqueline Kennedy attended the ceremony
+
+913
+00:45:43,533 --> 00:45:46,000
+she emphasized how meaningful the award would have been
+
+914
+00:45:46,000 --> 00:45:47,066
+to her husband
+
+915
+00:45:47,533 --> 00:45:49,700
+her presence moved Oppenheimer deeply
+
+916
+00:45:52,333 --> 00:45:56,466
+in 1960 he fulfilled a personal wish by visiting Japan
+
+917
+00:45:56,466 --> 00:45:57,666
+and seeing first hand
+
+918
+00:45:57,666 --> 00:46:00,233
+the destruction caused by the atomic bomb
+
+919
+00:46:00,900 --> 00:46:01,900
+by the end of his life
+
+920
+00:46:01,900 --> 00:46:02,400
+Oppenheimer
+
+921
+00:46:02,400 --> 00:46:05,300
+had made peace with his role in shaping the atomic age
+
+922
+00:46:05,300 --> 00:46:08,300
+in a 1965 interview with The New York Times Magazine
+
+923
+00:46:08,300 --> 00:46:10,100
+he reflected on that legacy
+
+924
+00:46:11,400 --> 00:46:12,666
+I never regretted
+
+925
+00:46:12,666 --> 00:46:16,033
+and do not regret now having done my part of the job
+
+926
+00:46:19,000 --> 00:46:23,833
+Robert Oppenheimer died of throat cancer on February
+
+927
+00:46:24,533 --> 00:46:26,933
+his funeral at Princeton was attended by friends
+
+928
+00:46:26,933 --> 00:46:28,800
+colleagues and dignitaries
+
+929
+00:46:32,500 --> 00:46:34,200
+his body was cremated
+
+930
+00:46:34,500 --> 00:46:36,333
+and his ashes were scattered by Kitty
+
+931
+00:46:36,333 --> 00:46:37,333
+from a small boat
+
+932
+00:46:37,333 --> 00:46:39,466
+off the coast of their home on ST John
+
+933
+00:46:40,266 --> 00:46:43,466
+the beach is now referred to as Oppenheimer Beach
+
+934
+00:46:48,266 --> 00:46:50,033
+during one of his final lectures
+
+935
+00:46:50,033 --> 00:46:53,233
+he was asked a deeply personal question about his life
+
+936
+00:46:55,200 --> 00:46:57,800
+will you comment on what contribution if any
+
+937
+00:46:57,800 --> 00:46:59,900
+Jesus Christ and his gospel
+
+938
+00:47:00,133 --> 00:47:01,100
+may have
+
+939
+00:47:01,933 --> 00:47:03,700
+to you or science
+
+940
+00:47:04,800 --> 00:47:07,666
+I I really wouldn't know about science because
+
+941
+00:47:08,100 --> 00:47:09,800
+this is a matter
+
+942
+00:47:10,500 --> 00:47:13,933
+of history which I am sure is very tangled
+
+943
+00:47:14,666 --> 00:47:17,866
+it is hard to imagine the history of Europe
+
+944
+00:47:19,033 --> 00:47:20,300
+without Christ
+
+945
+00:47:21,000 --> 00:47:23,800
+and it's hard to imagine the history of science
+
+946
+00:47:24,233 --> 00:47:25,033
+without Europe
+
+947
+00:47:29,866 --> 00:47:32,700
+as for myself I would be
+
+948
+00:47:35,266 --> 00:47:36,400
+I would be the poorer
+
+949
+00:47:38,333 --> 00:47:40,733
+I don't know whether I'd be a worse or better scientist
+
+950
+00:47:40,733 --> 00:47:42,533
+but that's not what you wanted to know
+
+951
+00:47:44,700 --> 00:47:46,400
+Dr Robert Oppenheimer
+
+952
+00:47:46,500 --> 00:47:48,933
+had worked relentlessly to help his country
+
+953
+00:47:48,933 --> 00:47:51,866
+bring an end to a brutal World War
+
+954
+00:47:53,200 --> 00:47:55,033
+he succeeded only
+
+955
+00:47:55,033 --> 00:47:57,500
+to be later discredited by the same nation
+
+956
+00:47:57,500 --> 00:47:58,600
+he had served
+
+957
+00:47:59,800 --> 00:48:00,800
+his offense
+
+958
+00:48:01,433 --> 00:48:04,133
+advocating for peace through cooperation
+
+959
+00:48:04,833 --> 00:48:07,400
+today his message remains as urgent
+
+960
+00:48:07,400 --> 00:48:09,833
+and relevant as it was in his time
+
+961
+00:48:11,733 --> 00:48:14,033
+what should we do after the war
+
+962
+00:48:14,033 --> 00:48:16,666
+what how should we handle this technology that we made
+
+963
+00:48:16,900 --> 00:48:17,600
+and so the Interim
+
+964
+00:48:17,600 --> 00:48:18,400
+Scientific
+
+965
+00:48:18,400 --> 00:48:22,866
+Committee released their report on August 17th, 1945
+
+966
+00:48:23,100 --> 00:48:25,666
+and it was a written report and had five points
+
+967
+00:48:25,666 --> 00:48:27,133
+and it was chaired by Robert Oppenheimer
+
+968
+00:48:27,133 --> 00:48:29,200
+but it was Lawrence Fermi
+
+969
+00:48:29,200 --> 00:48:30,333
+Compton maybe
+
+970
+00:48:30,533 --> 00:48:31,866
+like uh it was a group of them
+
+971
+00:48:31,866 --> 00:48:34,000
+and they worked days and days and days on
+
+972
+00:48:34,000 --> 00:48:36,500
+on five points and debated them back and forth
+
+973
+00:48:36,600 --> 00:48:39,200
+and those five points are literally as valid today
+
+974
+00:48:39,200 --> 00:48:40,433
+as the day they were written
+
+975
+00:48:40,433 --> 00:48:41,466
+and it said that
+
+976
+00:48:41,600 --> 00:48:43,200
+these weapons will get more powerful
+
+977
+00:48:43,200 --> 00:48:43,866
+we'll probably
+
+978
+00:48:43,866 --> 00:48:44,833
+go into the business of
+
+979
+00:48:44,833 --> 00:48:46,666
+trying to make a lot more of them
+
+980
+00:48:47,000 --> 00:48:49,100
+and there is a way to control it
+
+981
+00:48:49,100 --> 00:48:50,900
+and is only through scientific
+
+982
+00:48:50,900 --> 00:48:52,700
+openness and cooperation
+
+983
+00:48:52,833 --> 00:48:56,066
+and these were not kind of radical wild ideas
+
+984
+00:48:56,066 --> 00:48:57,666
+these guys were in the government
+
+985
+00:48:57,666 --> 00:48:58,800
+they were on the inside
+
+986
+00:48:58,800 --> 00:48:59,066
+and they were
+
+987
+00:48:59,066 --> 00:49:01,333
+the most respected scientists in the world
+
+988
+00:49:01,333 --> 00:49:03,733
+saying that we can control this technology
+
+989
+00:49:03,733 --> 00:49:05,066
+and we have to treat it
+
+990
+00:49:05,233 --> 00:49:07,866
+differently than other military
+
+991
+00:49:09,266 --> 00:49:12,466
+uses and that wasn't an intuitive idea
+
+992
+00:49:12,466 --> 00:49:14,533
+and it wasn't resoundly rejected
+
+993
+00:49:14,533 --> 00:49:16,700
+I mean these are guys created this technology
+
+994
+00:49:16,700 --> 00:49:17,133
+and they're saying
+
+995
+00:49:17,133 --> 00:49:19,466
+this is how you handle it
+
+996
+00:49:19,700 --> 00:49:21,433
+and there was a chance that that advice
+
+997
+00:49:21,433 --> 00:49:23,133
+could have just directly been taken
+
+998
+00:49:23,133 --> 00:49:25,733
+the military says what should we do with this
+
+999
+00:49:26,700 --> 00:49:27,900
+and the government
+
+1000
+00:49:27,900 --> 00:49:29,933
+and they could've listened to the scientists
+
+1001
+00:49:29,933 --> 00:49:30,933
+and managed it
+
+1002
+00:49:30,933 --> 00:49:33,900
+the way they proposed from that very beginning
+
+1003
+00:49:34,200 --> 00:49:36,133
+uh period and when I look back on history
+
+1004
+00:49:36,133 --> 00:49:38,100
+I think it's worth talking over that period
+
+1005
+00:49:38,100 --> 00:49:40,000
+and all the way through 1947
+
+1006
+00:49:40,200 --> 00:49:41,433
+over and over and
+
+1007
+00:49:41,433 --> 00:49:43,600
+over again and have people understand
+
+1008
+00:49:43,766 --> 00:49:46,700
+how close and how clear it was to the scientists
+
+1009
+00:49:46,700 --> 00:49:48,900
+how we should manage this technology
+
+1010
+00:49:49,000 --> 00:49:51,833
+and how like effectively just arbitrary
+
+1011
+00:49:51,866 --> 00:49:53,600
+bureaucratic decisions
+
+1012
+00:49:54,000 --> 00:49:56,466
+did the exact opposite of what they
+
+1013
+00:49:56,500 --> 00:49:58,933
+advised and went into an arms race
+
+1014
+00:49:58,933 --> 00:50:00,400
+and almost destroyed the world
+
+1015
+00:50:00,400 --> 00:50:02,633
+it's not like they thought their path out
+
+1016
+00:50:02,666 --> 00:50:04,066
+they they did think their path out
+
+1017
+00:50:04,066 --> 00:50:05,866
+they said I disagree with you scientists
+
+1018
+00:50:05,866 --> 00:50:06,866
+you don't know what you're talking about
+
+1019
+00:50:06,866 --> 00:50:07,866
+we'll do it our way
+
+1020
+00:50:07,933 --> 00:50:09,900
+and we had 70 years to test it
+
+1021
+00:50:09,900 --> 00:50:12,633
+and it turns out the scientists were 100% right
+
+1022
+00:50:13,266 --> 00:50:15,100
+except for blowing ourselves up
+
+1023
+00:50:15,100 --> 00:50:17,033
+which to this day is an open question
+
+1024
+00:50:17,033 --> 00:50:18,266
+we could all die
+
+1025
+00:50:18,266 --> 00:50:20,600
+so that was a really interesting period
+
+1026
+00:50:20,600 --> 00:50:21,633
+that they wrote down
+
+1027
+00:50:21,633 --> 00:50:22,900
+provided this advice
+
+1028
+00:50:23,000 --> 00:50:24,300
+tried to deliver it
+
+1029
+00:50:24,633 --> 00:50:27,200
+and it didn't get there
+
+1030
+00:00:47,400 --> 00:00:50,633
+1945年10月一个凉爽的日子 
+
+1031
+00:00:50,633 --> 00:00:51,666
+罗伯特·奥本海默博士
+
+1032
+00:00:51,666 --> 00:00:54,400
+抵达华盛顿特区的白宫
+
+1033
+00:00:55,333 --> 00:00:57,866
+与总统安排了30分钟的会议
+
+1034
+00:00:57,866 --> 00:00:59,266
+哈里·S·杜鲁门
+
+1035
+00:01:00,466 --> 00:01:03,400
+一次可能改变历史进程的会议
+
+1036
+00:01:07,400 --> 00:01:08,300
+那天早上医生
+
+1037
+00:01:08,300 --> 00:01:09,133
+罗伯特·奥本海默
+
+1038
+00:01:09,133 --> 00:01:12,066
+试图和总统讲道理
+
+1039
+00:01:15,933 --> 00:01:18,866
+他刚刚带领一个科学家团队开发
+
+1040
+00:01:18,866 --> 00:01:19,933
+并测试武器
+
+1041
+00:01:19,933 --> 00:01:21,600
+这有助于结束
+
+1042
+00:01:21,600 --> 00:01:22,933
+第二次世界大战
+
+1043
+00:01:26,066 --> 00:01:27,333
+现在他绝望了
+
+1044
+00:01:27,333 --> 00:01:29,700
+防止世界自我毁灭
+
+1045
+00:01:34,833 --> 00:01:37,933
+在广岛和长崎原子弹爆炸后
+
+1046
+00:01:38,066 --> 00:01:40,400
+奥本海默一直关注着军事发展
+
+1047
+00:01:40,400 --> 00:01:41,800
+深切关注
+
+1048
+00:01:45,800 --> 00:01:48,700
+他觉得有必要亲自分享他的恐惧
+
+1049
+00:01:48,700 --> 00:01:49,900
+关于这个毁灭性的
+
+1050
+00:01:49,900 --> 00:01:52,333
+美国总统的新武器
+
+1051
+00:02:00,233 --> 00:02:02,066
+十月事件
+
+1052
+00:02:02,066 --> 00:02:05,033
+1945年标志着历史的转折点
+
+1053
+00:02:05,733 --> 00:02:08,033
+但故事开始于几年前
+
+1054
+00:02:08,033 --> 00:02:11,300
+1939年希特勒入侵波兰
+
+1055
+00:02:11,433 --> 00:02:13,533
+引发了第二次世界大战
+
+1056
+00:02:16,066 --> 00:02:18,433
+随着德国军队在欧洲的推进
+
+1057
+00:02:18,933 --> 00:02:22,433
+在美国工作的欧洲移民物理学家
+
+1058
+00:02:22,533 --> 00:02:24,666
+得知他们在柏林的同行
+
+1059
+00:02:24,666 --> 00:02:26,700
+正在进行核裂变实验
+
+1060
+00:02:30,700 --> 00:02:32,866
+担心它作为武器的潜力
+
+1061
+00:02:33,266 --> 00:02:35,100
+他们接近阿尔伯特·爱因斯坦
+
+1062
+00:02:35,233 --> 00:02:37,800
+并说服他合作写信
+
+1063
+00:02:37,800 --> 00:02:40,433
+警告富兰克林·罗斯福总统
+
+1064
+00:02:43,633 --> 00:02:45,266
+这封信敲响了警钟
+
+1065
+00:02:45,266 --> 00:02:45,833
+那个纳粹
+
+1066
+00:02:45,833 --> 00:02:49,066
+德国可能是第一个研制原子弹的国家
+
+1067
+00:02:51,033 --> 00:02:53,733
+作为回应，罗斯福动员美国
+
+1068
+00:02:53,733 --> 00:02:55,666
+保持领先的资源
+
+1069
+00:02:59,033 --> 00:03:00,500
+根据行政命令
+
+1070
+00:03:00,500 --> 00:03:03,333
+他创建了曼哈顿工程师区
+
+1071
+00:03:03,600 --> 00:03:05,000
+放置原子研究
+
+1072
+00:03:05,000 --> 00:03:07,533
+在美国战争的中心
+
+1073
+00:03:11,300 --> 00:03:13,600
+领导这个前所未有的项目
+
+1074
+00:03:13,600 --> 00:03:15,800
+军队任命莱斯利·格罗夫斯将军
+
+1075
+00:03:15,800 --> 00:03:16,866
+经验丰富的军官
+
+1076
+00:03:16,866 --> 00:03:19,500
+他最近监督了五角大楼的建设
+
+1077
+00:03:19,500 --> 00:03:20,333
+在华盛顿特区
+
+1078
+00:03:20,333 --> 00:03:23,533
+重大军事成就
+
+1079
+00:03:29,033 --> 00:03:29,666
+矮生
+
+1080
+00:03:29,666 --> 00:03:32,600
+曼哈顿工程师区发展迅速
+
+1081
+00:03:32,700 --> 00:03:35,466
+雇佣了75000名美国人
+
+1082
+00:03:38,266 --> 00:03:40,300
+它的结构被分隔开来
+
+1083
+00:03:40,300 --> 00:03:43,100
+为了保密和保持焦点
+
+1084
+00:03:45,000 --> 00:03:47,600
+Groves知道他需要一位杰出的科学家
+
+1085
+00:03:47,900 --> 00:03:49,800
+一个有远见的人
+
+1086
+00:03:49,866 --> 00:03:52,100
+集结全国顶尖人才
+
+1087
+00:03:52,300 --> 00:03:54,866
+并以创纪录的速度推动进展
+
+1088
+00:03:55,833 --> 00:03:57,533
+经过深思熟虑
+
+1089
+00:03:57,533 --> 00:04:00,000
+Groves将军做出了决定
+
+1090
+00:04:03,866 --> 00:04:07,800
+我完全负责选择博士
+
+1091
+00:04:08,133 --> 00:04:09,133
+奥本海默
+
+1092
+00:04:09,733 --> 00:04:13,666
+作为洛斯阿拉莫斯炸弹实验室的负责人
+
+1093
+00:04:15,700 --> 00:04:16,666
+奥本海默博士
+
+1094
+00:04:16,666 --> 00:04:18,833
+已经认识了许多顶尖的科学家
+
+1095
+00:04:18,833 --> 00:04:20,233
+和那个时代的物理学家
+
+1096
+00:04:21,300 --> 00:04:22,466
+他很有魅力
+
+1097
+00:04:22,466 --> 00:04:24,333
+智力和领导能力
+
+1098
+00:04:24,333 --> 00:04:26,900
+需要团结他们完成一项任务
+
+1099
+00:04:29,900 --> 00:04:32,500
+当格罗夫斯和奥本海默第一次见面时
+
+1100
+00:04:32,733 --> 00:04:35,466
+他们的首要任务是找到一个偏远的地方
+
+1101
+00:04:35,466 --> 00:04:37,100
+为了一个秘密实验室
+
+1102
+00:04:38,333 --> 00:04:40,300
+科学家可以在那里生活和工作
+
+1103
+00:04:40,300 --> 00:04:41,400
+昼夜不停
+
+1104
+00:04:41,400 --> 00:04:43,033
+完全孤立
+
+1105
+00:04:45,933 --> 00:04:48,900
+奥本海默建议在新墨西哥州北部找个地方
+
+1106
+00:04:48,900 --> 00:04:50,900
+他和家人在一起的地方
+
+1107
+00:04:52,833 --> 00:04:54,300
+他爬山
+
+1108
+00:04:54,400 --> 00:04:56,333
+骑马穿越地形
+
+1109
+00:04:56,433 --> 00:04:58,500
+甚至在那里租了一个简单的小屋
+
+1110
+00:05:02,100 --> 00:05:05,233
+他记得附近的一所农场学校坐落在梅萨
+
+1111
+00:05:09,100 --> 00:05:10,666
+看起来很理想
+
+1112
+00:05:11,800 --> 00:05:13,733
+那两个人开车出去看
+
+1113
+00:05:15,433 --> 00:05:17,900
+老校区有坚实的基础设施
+
+1114
+00:05:17,900 --> 00:05:20,400
+获得水和扩张空间
+
+1115
+00:05:20,666 --> 00:05:23,700
+格罗夫斯转向奥本海默说这就是了
+
+1116
+00:05:24,666 --> 00:05:27,433
+政府很快就得到了财产
+
+1117
+00:05:27,866 --> 00:05:31,200
+警卫室和道路的工作立即开始
+
+1118
+00:05:32,433 --> 00:05:35,233
+奥本海默开始组建一个由顶尖科学家组成的团队
+
+1119
+00:05:35,233 --> 00:05:38,000
+来自全国各地的工程师和专家
+
+1120
+00:05:39,266 --> 00:05:42,100
+建造了一个实验室，建筑物开始出现
+
+1121
+00:05:42,100 --> 00:05:43,333
+几乎一夜之间
+
+1122
+00:05:44,333 --> 00:05:47,100
+数百名工人和支持人员到达
+
+1123
+00:05:48,000 --> 00:05:50,800
+警卫室很快成为活动中心
+
+1124
+00:05:52,333 --> 00:05:54,700
+科学家们和他们的家人一起来的
+
+1125
+00:05:54,833 --> 00:05:57,066
+其中包括奥本海默的妻子凯瑟琳
+
+1126
+00:05:57,066 --> 00:05:58,066
+被称为Kitty
+
+1127
+00:05:58,233 --> 00:06:01,100
+是他的知己和永远的伴侣
+
+1128
+00:06:06,900 --> 00:06:09,200
+Kitty欢迎新来的
+
+1129
+00:06:09,333 --> 00:06:11,200
+有组织的社交活动
+
+1130
+00:06:11,333 --> 00:06:14,633
+成为洛斯阿拉莫斯事实上的第一夫人
+
+1131
+00:06:18,100 --> 00:06:19,733
+随着研究的进展
+
+1132
+00:06:19,900 --> 00:06:20,900
+军事规划者
+
+1133
+00:06:20,900 --> 00:06:23,200
+开始寻找附近的地点
+
+1134
+00:06:23,200 --> 00:06:25,900
+测试世界上第一颗原子弹
+
+1135
+00:06:30,033 --> 00:06:33,000
+试验场需要远离人口稠密地区
+
+1136
+00:06:33,000 --> 00:06:34,800
+公众无法访问
+
+1137
+00:06:35,700 --> 00:06:39,433
+新墨西哥州阿拉莫戈多以北的一个地点被选中
+
+1138
+00:06:40,933 --> 00:06:44,100
+它坐落在被称为乔丹娜·德尔·穆尔托斯的沙漠中
+
+1139
+00:06:44,233 --> 00:06:46,500
+西班牙语为“死亡之旅”
+
+1140
+00:06:47,733 --> 00:06:50,300
+这个地区已经被军方控制住了
+
+1141
+00:06:50,300 --> 00:06:52,133
+并用于轰炸演习
+
+1142
+00:06:55,733 --> 00:06:57,500
+目击者后来回忆说
+
+1143
+00:06:57,500 --> 00:07:00,466
+奥本海默在选址中起了关键作用
+
+1144
+00:07:01,833 --> 00:07:04,800
+据报道，在搜查过程中他睡在卡车下面
+
+1145
+00:07:04,800 --> 00:07:06,633
+在沙漠中似乎比他的许多同事都
+
+1146
+00:07:06,633 --> 00:07:08,200
+更自在
+
+1147
+00:07:11,300 --> 00:07:12,033
+随着时间的推移
+
+1148
+00:07:12,033 --> 00:07:15,233
+一个小小的大本营从贫瘠的地形上拔地而起
+
+1149
+00:07:15,466 --> 00:07:17,900
+奥本海默将该地点命名为三一
+
+1150
+00:07:20,633 --> 00:07:23,600
+在测试地点建造了几栋建筑
+
+1151
+00:07:23,600 --> 00:07:25,733
+包括兵营和食堂
+
+1152
+00:07:26,333 --> 00:07:28,800
+甚至还为工人们准备了台球桌
+
+1153
+00:07:35,666 --> 00:07:37,900
+当炸弹终于准备好进行测试时
+
+1154
+00:07:37,900 --> 00:07:40,066
+建造了一座高大的钢塔
+
+1155
+00:07:40,233 --> 00:07:42,333
+想法是引爆上面的装置
+
+1156
+00:07:42,333 --> 00:07:45,266
+研磨以更好地观察和测量其效果
+
+1157
+00:07:47,266 --> 00:07:49,300
+到1945年4月下旬
+
+1158
+00:07:49,300 --> 00:07:51,800
+盟军已经夺回了德国的大部分地区
+
+1159
+00:07:51,800 --> 00:07:53,700
+正在逼近柏林
+
+1160
+00:07:59,033 --> 00:08:00,533
+柏林很快沦陷
+
+1161
+00:08:00,533 --> 00:08:03,433
+整个国家都在盟军的控制之下
+
+1162
+00:08:04,133 --> 00:08:05,900
+德国士兵投降了
+
+1163
+00:08:05,933 --> 00:08:08,900
+和许多纳粹政权成员被俘
+
+1164
+00:08:10,700 --> 00:08:11,200
+美国
+
+1165
+00:08:11,200 --> 00:08:13,900
+情报小组发现了大量秘密
+
+1166
+00:08:13,900 --> 00:08:15,300
+军事文件
+
+1167
+00:08:16,066 --> 00:08:17,500
+德国投降后
+
+1168
+00:08:17,500 --> 00:08:21,066
+美国情报人员赶到皮纳蒙达火箭设施
+
+1169
+00:08:21,266 --> 00:08:22,433
+沃纳·冯·布劳恩
+
+1170
+00:08:22,433 --> 00:08:25,500
+领导了德国V2火箭的开发
+
+1171
+00:08:30,733 --> 00:08:32,333
+在附近的山洞里
+
+1172
+00:08:32,633 --> 00:08:36,700
+美军发现了14吨的技术文件
+
+1173
+00:08:36,866 --> 00:08:39,033
+和数百个火箭部件
+
+1174
+00:08:42,266 --> 00:08:45,066
+但特工们发现了一个更大的秘密
+
+1175
+00:08:45,700 --> 00:08:48,633
+德国在冯·普劳恩的监督下
+
+1176
+00:08:48,700 --> 00:08:51,500
+一直在开发一种旨在打击
+
+1177
+00:08:51,500 --> 00:08:52,800
+纽约市的火箭
+
+1178
+00:08:56,333 --> 00:08:59,133
+还有数吨火箭部件
+
+1179
+00:08:59,233 --> 00:09:01,300
+技术图纸和文件
+
+1180
+00:09:01,700 --> 00:09:04,466
+美军发现冯·布朗博士
+
+1181
+00:09:04,466 --> 00:09:06,233
+和他的德国科学家团队
+
+1182
+00:09:06,233 --> 00:09:08,000
+正在开发中
+
+1183
+00:09:08,000 --> 00:09:10,733
+有朝一日可能达到的远程武器
+
+1184
+00:09:10,733 --> 00:09:12,433
+跨大西洋目标
+
+1185
+00:09:14,200 --> 00:09:15,866
+他们实现的这项研究
+
+1186
+00:09:15,866 --> 00:09:18,133
+可能对美军大有裨益
+
+1187
+00:09:18,633 --> 00:09:21,000
+调查结果很快被传达给了杜鲁门总统
+
+1188
+00:09:21,000 --> 00:09:22,700
+订购了所有材料
+
+1189
+00:09:22,700 --> 00:09:24,000
+和科学家们
+
+1190
+00:09:24,100 --> 00:09:26,600
+被保护并运到美国
+
+1191
+00:09:26,600 --> 00:09:27,600
+刻不容缓
+
+1192
+00:09:30,433 --> 00:09:32,400
+美军迅速采取行动
+
+1193
+00:09:32,433 --> 00:09:34,600
+运送火箭零件和设备
+
+1194
+00:09:34,600 --> 00:09:35,466
+技术文件
+
+1195
+00:09:35,466 --> 00:09:38,533
+100多名德国科学家和他们的家人
+
+1196
+00:09:38,533 --> 00:09:40,300
+包括伯恩哈德·冯·布朗
+
+1197
+00:09:40,333 --> 00:09:41,800
+去美国
+
+1198
+00:09:44,866 --> 00:09:46,200
+五角大楼决定
+
+1199
+00:09:46,200 --> 00:09:49,100
+这批绝密货物的最佳位置
+
+1200
+00:09:49,100 --> 00:09:50,933
+是新墨西哥沙漠
+
+1201
+00:09:51,100 --> 00:09:52,900
+在原子试验场附近
+
+1202
+00:09:54,433 --> 00:09:56,000
+几乎一夜之间
+
+1203
+00:09:56,133 --> 00:09:59,700
+新墨西哥州成为全球关注的焦点
+
+1204
+00:10:01,266 --> 00:10:02,100
+它现在回家了
+
+1205
+00:10:02,100 --> 00:10:05,100
+不仅是洛斯阿拉莫斯和三一试验场
+
+1206
+00:10:05,300 --> 00:10:05,800
+但也
+
+1207
+00:10:05,800 --> 00:10:08,900
+新计划的火箭试验场的中心
+
+1208
+00:10:14,233 --> 00:10:16,333
+虽然盟军现在控制了德国
+
+1209
+00:10:16,333 --> 00:10:17,500
+和欧洲大部分地区
+
+1210
+00:10:17,500 --> 00:10:19,600
+日本继续进行激烈的战斗
+
+1211
+00:10:19,600 --> 00:10:21,000
+在太平洋战场
+
+1212
+00:10:27,466 --> 00:10:29,733
+在德国投降后的几周内
+
+1213
+00:10:29,733 --> 00:10:31,900
+计划召开一次盟军领导人会议
+
+1214
+00:10:31,900 --> 00:10:34,466
+向欧洲战后政府发表讲话
+
+1215
+00:10:34,866 --> 00:10:35,666
+并协调
+
+1216
+00:10:35,666 --> 00:10:38,533
+抗日战争的最后阶段
+
+1217
+00:10:39,800 --> 00:10:42,133
+会议原定于7月17日开始
+
+1218
+00:10:42,133 --> 00:10:44,466
+1945年在波茨坦
+
+1219
+00:10:44,900 --> 00:10:47,866
+后来被称为波茨坦会议
+
+1220
+00:10:51,133 --> 00:10:54,000
+杜鲁门的战争部长亨利·斯丁森
+
+1221
+00:10:54,433 --> 00:10:57,100
+收到了曼哈顿计划的每日更新
+
+1222
+00:10:57,233 --> 00:11:00,833
+意识到第一次原子弹试验迫在眉睫
+
+1223
+00:11:02,933 --> 00:11:04,400
+史汀生要求
+
+1224
+00:11:04,400 --> 00:11:05,600
+杜鲁门总统
+
+1225
+00:11:05,600 --> 00:11:08,400
+授权加快测试时间表
+
+1226
+00:11:08,400 --> 00:11:10,033
+在新墨西哥州的沙漠里
+
+1227
+00:11:10,900 --> 00:11:11,133
+所以
+
+1228
+00:11:11,133 --> 00:11:13,600
+其结果可以与
+
+1229
+00:11:13,600 --> 00:11:15,200
+波茨坦会议
+
+1230
+00:11:20,266 --> 00:11:22,300
+如果测试证明成功
+
+1231
+00:11:22,433 --> 00:11:24,033
+杜鲁门可以参加会议
+
+1232
+00:11:24,033 --> 00:11:25,333
+有一个强大的消息
+
+1233
+00:11:25,333 --> 00:11:26,000
+新武器
+
+1234
+00:11:26,000 --> 00:11:29,033
+作为他与盟军谈判的筹码
+
+1235
+00:11:30,400 --> 00:11:32,700
+杜鲁门同意加速时间表
+
+1236
+00:11:32,700 --> 00:11:34,400
+并指示Groves将军
+
+1237
+00:11:34,400 --> 00:11:36,833
+通知洛斯阿拉莫斯的科学家
+
+1238
+00:11:36,933 --> 00:11:40,233
+测试必须在波茨坦会议之前进行
+
+1239
+00:11:40,400 --> 00:11:42,533
+不迟于七月
+
+1240
+00:11:44,066 --> 00:11:46,500
+奥本海默博士在营地小屋召集了一个会议
+
+1241
+00:11:46,500 --> 00:11:47,633
+在洛斯阿拉莫斯
+
+1242
+00:11:49,500 --> 00:11:51,200
+科学家们一致认为
+
+1243
+00:11:51,200 --> 00:11:53,900
+与所有部门通力合作
+
+1244
+00:11:53,900 --> 00:11:56,033
+测试可以提前
+
+1245
+00:11:58,133 --> 00:12:01,100
+浓缩钚是在洛斯阿拉莫斯实验室制备的
+
+1246
+00:12:01,100 --> 00:12:02,300
+领先于测试
+
+1247
+00:12:04,800 --> 00:12:06,833
+在奥本海默的监督下
+
+1248
+00:12:07,133 --> 00:12:10,100
+钚被装载到军用车辆上
+
+1249
+00:12:13,233 --> 00:12:15,833
+然后它被向南穿过新墨西哥州
+
+1250
+00:12:16,200 --> 00:12:19,033
+几小时后到达三一现场
+
+1251
+00:12:19,466 --> 00:12:21,700
+340公里以外
+
+1252
+00:12:33,400 --> 00:12:34,466
+小心翼翼
+
+1253
+00:12:34,466 --> 00:12:37,066
+组件在测试现场组装
+
+1254
+00:12:38,200 --> 00:12:40,900
+钚核被插入炸弹
+
+1255
+00:12:40,900 --> 00:12:42,700
+绰号小玩意
+
+1256
+00:12:45,300 --> 00:12:47,433
+在奥本海默的监视下
+
+1257
+00:12:47,433 --> 00:12:49,666
+团队完成了最终组装
+
+1258
+00:12:54,666 --> 00:12:55,933
+在上面的塔里
+
+1259
+00:12:56,100 --> 00:12:58,933
+人们准备用起重机举起炸弹
+
+1260
+00:12:59,266 --> 00:13:00,800
+而下面的人在滑轮上工作
+
+1261
+00:13:00,800 --> 00:13:02,866
+最高层的团队监控了这个过程
+
+1262
+00:13:02,866 --> 00:13:03,933
+使用镜子
+
+1263
+00:13:05,300 --> 00:13:06,866
+一旦炸弹到达顶部
+
+1264
+00:13:06,866 --> 00:13:08,133
+地板是密封的
+
+1265
+00:13:08,133 --> 00:13:10,433
+技术人员接线并检查了设备
+
+1266
+00:13:10,433 --> 00:13:13,200
+以确保测试能按计划进行
+
+1267
+00:13:16,533 --> 00:13:18,666
+奥本海默通知了格罗夫斯将军
+
+1268
+00:13:18,666 --> 00:13:20,800
+7月16日的测试已经准备好了
+
+1269
+00:13:23,300 --> 00:13:25,733
+格罗夫斯把消息转达给了杜鲁门总统
+
+1270
+00:13:25,733 --> 00:13:28,266
+他已经参加了波茨坦的会议
+
+1271
+00:13:30,100 --> 00:13:31,533
+在测试的早上
+
+1272
+00:13:31,600 --> 00:13:34,100
+小雨和远处的闪电威胁要延迟
+
+1273
+00:13:34,600 --> 00:13:36,500
+但天空最终还是放晴了
+
+1274
+00:13:37,700 --> 00:13:39,400
+早上5点29分
+
+1275
+00:13:39,400 --> 00:13:40,533
+1945年7月
+
+1276
+00:13:40,533 --> 00:13:44,200
+世界上第一颗原子弹被引爆
+
+1277
+00:13:44,200 --> 00:13:45,800
+在新墨西哥沙漠
+
+1278
+00:13:50,066 --> 00:13:52,200
+原子时代开始了
+
+1279
+00:13:56,133 --> 00:13:58,900
+美国现在拥有一种能够
+
+1280
+00:13:58,900 --> 00:14:01,866
+结束战争迫使日本投降
+
+1281
+00:14:05,233 --> 00:14:07,900
+测试成功的消息立即发送
+
+1282
+00:14:07,900 --> 00:14:08,933
+杜鲁门总统
+
+1283
+00:14:08,933 --> 00:14:11,333
+在波茨坦通过快递电报
+
+1284
+00:14:13,200 --> 00:14:14,433
+消息称
+
+1285
+00:14:15,600 --> 00:14:17,200
+医生刚刚回来
+
+1286
+00:14:17,200 --> 00:14:19,400
+对代号为“小男孩”的原子弹的首次成功引爆感到非常激动
+
+1287
+00:14:19,400 --> 00:14:22,233
+并确信其威力与之前代号为“大胖子”的测试装置一样强劲。
+
+1288
+00:14:25,333 --> 00:14:26,866
+纽约时报记者
+
+1289
+00:14:26,866 --> 00:14:28,866
+他是官方观察小组的一员
+
+1290
+00:14:28,866 --> 00:14:30,400
+后来描述了那一刻
+
+1291
+00:14:30,666 --> 00:14:34,200
+仿佛上帝创造第一道光时他就在场
+
+1292
+00:14:34,900 --> 00:14:37,600
+Groves将军在他的机密报告中
+
+1293
+00:14:37,600 --> 00:14:39,000
+炸弹测试是
+
+1294
+00:14:39,100 --> 00:14:39,600
+大概
+
+1295
+00:14:39,600 --> 00:14:42,266
+比电的发现更重要
+
+1296
+00:14:43,066 --> 00:14:44,100
+回到控制室
+
+1297
+00:14:44,100 --> 00:14:47,033
+科学家们的反应是既敬畏又不安
+
+1298
+00:14:47,066 --> 00:14:48,133
+其中一个说
+
+1299
+00:14:48,333 --> 00:14:50,666
+我们现在大概都是混蛋
+
+1300
+00:14:51,433 --> 00:14:53,333
+香烟和啤酒四处传播
+
+1301
+00:14:53,333 --> 00:14:55,000
+在压抑的庆典中
+
+1302
+00:14:55,500 --> 00:14:59,633
+160公里外都能听到爆炸声
+
+1303
+00:15:01,500 --> 00:15:03,266
+避免公众恐慌
+
+1304
+00:15:03,633 --> 00:15:05,333
+发布了新闻稿
+
+1305
+00:15:05,433 --> 00:15:05,933
+声称
+
+1306
+00:15:05,933 --> 00:15:08,800
+一个弹药库意外爆炸了
+
+1307
+00:15:14,066 --> 00:15:16,500
+测试成功几个小时后
+
+1308
+00:15:16,533 --> 00:15:19,666
+印第安纳波利斯号从旧金山启航
+
+1309
+00:15:19,933 --> 00:15:22,233
+前往太平洋的提尼安岛
+
+1310
+00:15:23,466 --> 00:15:25,733
+船上有部件和钚
+
+1311
+00:15:25,733 --> 00:15:27,133
+准备第二个炸弹
+
+1312
+00:15:27,233 --> 00:15:29,200
+用于对付日本
+
+1313
+00:15:34,533 --> 00:15:37,333
+与此同时，已知测试消息
+
+1314
+00:15:37,333 --> 00:15:38,200
+杜鲁门总统
+
+1315
+00:15:38,200 --> 00:15:40,266
+显示出明显的信心转变
+
+1316
+00:15:40,266 --> 00:15:41,100
+在波茨坦
+
+1317
+00:15:42,300 --> 00:15:43,700
+随着会议的继续
+
+1318
+00:15:43,700 --> 00:15:46,133
+所有盟军领导人都被告知了这种新武器
+
+1319
+00:15:46,133 --> 00:15:48,933
+以及它可能在太平洋战区的部署
+
+1320
+00:15:51,633 --> 00:15:53,666
+杜鲁门感到特别强大
+
+1321
+00:15:53,666 --> 00:15:55,733
+在他与丘吉尔的互动中
+
+1322
+00:15:55,733 --> 00:15:56,666
+和斯大林
+
+1323
+00:15:57,400 --> 00:15:58,800
+在会议结束时
+
+1324
+00:15:58,800 --> 00:16:01,633
+所有盟国都被告知了新炸弹的事
+
+1325
+00:16:01,633 --> 00:16:03,700
+以及它即将在日本的部署
+
+1326
+00:16:04,000 --> 00:16:05,933
+我告诉斯大林
+
+1327
+00:16:06,466 --> 00:16:08,466
+关于原子弹爆炸
+
+1328
+00:16:09,066 --> 00:16:11,666
+已于7月16日在新墨西哥州
+
+1329
+00:16:11,666 --> 00:16:13,333
+和阿拉莫戈多
+
+1330
+00:16:13,500 --> 00:16:15,866
+测试，并且
+
+1331
+00:16:16,233 --> 00:16:17,100
+向他解释
+
+1332
+00:16:17,100 --> 00:16:19,200
+我们有在世界历史上曾被发现的
+
+1333
+00:16:19,666 --> 00:16:21,733
+最强大的炸药
+
+1334
+00:16:21,733 --> 00:16:23,900
+我们希望在日本使用它
+
+1335
+00:16:24,700 --> 00:16:26,833
+他对我微笑
+
+1336
+00:16:26,833 --> 00:16:29,933
+鞠躬说他很高兴我们有炸药
+
+1337
+00:16:30,066 --> 00:16:32,633
+他希望这能结束日本战争
+
+1338
+00:16:33,666 --> 00:16:36,133
+回到新墨西哥州奥本海默
+
+1339
+00:16:36,133 --> 00:16:37,000
+格罗夫斯将军
+
+1340
+00:16:37,000 --> 00:16:39,233
+科学家们参观了爆炸现场
+
+1341
+00:16:41,100 --> 00:16:43,133
+他们的辛勤工作得到了回报
+
+1342
+00:16:44,233 --> 00:16:46,300
+实验奏效了
+
+1343
+00:16:48,233 --> 00:16:50,000
+奥本海默回到了洛斯阿拉莫斯
+
+1344
+00:16:50,000 --> 00:16:51,800
+精疲力竭但深思熟虑
+
+1345
+00:16:54,066 --> 00:16:56,900
+他开始考虑炸弹的下一步用途
+
+1346
+00:16:57,466 --> 00:16:59,733
+应该先有预告吗？
+
+1347
+00:16:59,733 --> 00:17:02,933
+是否应该警告日本人并敦促他们投降
+
+1348
+00:17:03,500 --> 00:17:05,200
+他的同事会怎么想
+
+1349
+00:17:05,200 --> 00:17:07,533
+既然理论变成了现实
+
+1350
+00:17:08,500 --> 00:17:10,433
+洛斯阿拉莫斯警卫室的景象
+
+1351
+00:17:10,433 --> 00:17:11,900
+是一种可喜的解脱
+
+1352
+00:17:11,900 --> 00:17:13,466
+他终于回家了
+
+1353
+00:17:17,000 --> 00:17:18,033
+回来后不久
+
+1354
+00:17:18,033 --> 00:17:20,533
+奥本海默召集了一次科学小组会议
+
+1355
+00:17:20,533 --> 00:17:23,433
+来解决已经出现的伦理问题
+
+1356
+00:17:24,133 --> 00:17:26,900
+在橡树岭和芝加哥曼哈顿项目现场
+
+1357
+00:17:27,200 --> 00:17:28,800
+许多科学家签署了一份请愿书
+
+1358
+00:17:28,800 --> 00:17:30,733
+敦促总统让日本
+
+1359
+00:17:30,733 --> 00:17:33,400
+应该首先得到投降的机会
+
+1360
+00:17:33,466 --> 00:17:34,433
+武器应该
+
+1361
+00:17:34,433 --> 00:17:36,533
+只能作为最后手段使用
+
+1362
+00:17:38,433 --> 00:17:40,233
+20多年后
+
+1363
+00:17:40,300 --> 00:17:40,800
+奥本海默
+
+1364
+00:17:40,800 --> 00:17:43,900
+回忆起他和他的同事当时的想法
+
+1365
+00:17:48,266 --> 00:17:50,900
+我想这可能是假设
+
+1366
+00:17:51,266 --> 00:17:53,866
+在洛斯阿拉莫斯，人们当然一直认为
+
+1367
+00:17:54,300 --> 00:17:56,233
+如果战争
+
+1368
+00:17:56,900 --> 00:17:59,633
+没有结束，也不清楚能否
+
+1369
+00:18:03,433 --> 00:18:05,433
+得出结论
+
+1370
+00:18:06,400 --> 00:18:07,200
+由
+
+1371
+00:18:07,833 --> 00:18:10,000
+外交手段
+
+1372
+00:18:10,266 --> 00:18:12,066
+这个武器会起作用
+
+1373
+00:18:12,600 --> 00:18:13,400
+嗯
+
+1374
+00:18:14,100 --> 00:18:17,000
+我不确定坐在那个房间里的人
+
+1375
+00:18:17,466 --> 00:18:18,700
+都一样
+
+1376
+00:18:19,066 --> 00:18:21,433
+知道炸弹会发生什么
+
+1377
+00:18:22,833 --> 00:18:25,000
+Groves将军阻止了请愿
+
+1378
+00:18:25,000 --> 00:18:28,066
+科学家们试图直接联系杜鲁门
+
+1379
+00:18:29,666 --> 00:18:31,866
+总统随后发布了
+
+1380
+00:18:32,100 --> 00:18:34,733
+第一颗原子弹将投在日本
+
+1381
+00:18:37,466 --> 00:18:40,600
+那时印第安纳波利斯号已经到达天宁岛
+
+1382
+00:18:41,433 --> 00:18:43,500
+代号为小男孩的炸弹
+
+1383
+00:18:43,700 --> 00:18:45,400
+被小心地从船上卸下
+
+1384
+00:18:45,400 --> 00:18:46,933
+并被运送到机库
+
+1385
+00:18:51,200 --> 00:18:52,700
+任务前夕
+
+1386
+00:18:53,200 --> 00:18:55,066
+军事技术人员滚动炸弹
+
+1387
+00:18:55,066 --> 00:18:57,066
+去等候的飞机
+
+1388
+00:19:01,700 --> 00:19:03,800
+紧张局势在船员中蔓延
+
+1389
+00:19:05,000 --> 00:19:06,633
+谣言四起
+
+1390
+00:19:06,666 --> 00:19:09,500
+这是可以结束战争的武器
+
+1391
+00:19:18,000 --> 00:19:20,400
+经过几个小时的精心准备
+
+1392
+00:19:20,400 --> 00:19:23,700
+炸弹被装入波音B 29飞机
+
+1393
+00:19:27,500 --> 00:19:30,733
+黎明前，安娜拉·盖伊号飞往广岛
+
+1394
+00:19:37,266 --> 00:19:38,700
+几个小时后
+
+1395
+00:19:39,433 --> 00:19:41,733
+1945年8月6日星期一早上
+
+1396
+00:19:41,733 --> 00:19:46,066
+第一颗用于战争的原子弹
+
+1397
+00:19:46,066 --> 00:19:47,600
+被空投到广岛
+
+1398
+00:19:55,300 --> 00:19:58,333
+这是唯一已知的真实录像
+
+1399
+00:19:58,333 --> 00:19:59,600
+爆炸
+
+1400
+00:20:01,433 --> 00:20:04,866
+造成空前破坏的爆炸
+
+1401
+00:20:07,266 --> 00:20:09,933
+与此同时，第二枚炸弹的最终组装
+
+1402
+00:20:09,933 --> 00:20:12,233
+蒙蒂尼安岛接近完工
+
+1403
+00:20:12,600 --> 00:20:14,600
+战术和作战飞行命令
+
+1404
+00:20:14,600 --> 00:20:15,633
+详细说明时间
+
+1405
+00:20:15,633 --> 00:20:17,700
+特派团的后勤和其他部门
+
+1406
+00:20:18,900 --> 00:20:20,400
+代号胖子
+
+1407
+00:20:20,433 --> 00:20:23,300
+炸弹的设计与三一装置相似
+
+1408
+00:20:23,533 --> 00:20:26,666
+八月，它被小心翼翼地从机库中取出
+
+1409
+00:20:26,666 --> 00:20:28,100
+并为任务做好准备
+
+1410
+00:20:30,000 --> 00:20:32,133
+它首先被涂上密封剂
+
+1411
+00:20:42,333 --> 00:20:43,733
+然后它被武装起来了
+
+1412
+00:20:44,100 --> 00:20:46,666
+运到跑道上
+
+1413
+00:21:09,033 --> 00:21:12,800
+一架B29轰炸机再次被精心准备
+
+1414
+00:21:12,800 --> 00:21:14,200
+并就位
+
+1415
+00:21:15,933 --> 00:21:17,466
+它在黎明时起飞了
+
+1416
+00:21:18,700 --> 00:21:21,400
+1945年8月
+
+1417
+00:21:21,666 --> 00:21:24,933
+第二颗原子弹在长崎上空投下
+
+1418
+00:21:28,066 --> 00:21:30,633
+这座城市被选为第二目标
+
+1419
+00:21:30,633 --> 00:21:32,500
+由于恶劣的天气条件
+
+1420
+00:21:49,633 --> 00:21:51,200
+日本军方可以提供
+
+1421
+00:21:51,200 --> 00:21:53,033
+只有最小的阻力
+
+1422
+00:21:54,000 --> 00:21:57,333
+在一个月内引爆了三颗原子弹
+
+1423
+00:21:57,333 --> 00:21:58,633
+在阿拉莫戈多
+
+1424
+00:22:02,333 --> 00:22:03,233
+广岛
+
+1425
+00:22:03,866 --> 00:22:05,066
+和长崎
+
+1426
+00:22:06,033 --> 00:22:08,133
+世界永远改变了
+
+1427
+00:22:10,600 --> 00:22:12,066
+压倒性的破坏
+
+1428
+00:22:12,066 --> 00:22:14,500
+导致日本投降
+
+1429
+00:22:14,533 --> 00:22:16,800
+结束第二次世界大战
+
+1430
+00:22:21,833 --> 00:22:24,633
+在广岛和长崎爆炸事件之后
+
+1431
+00:22:24,666 --> 00:22:27,000
+罗伯特·奥本海默和他的科学家同事们
+
+1432
+00:22:27,000 --> 00:22:28,633
+受到越来越多的审查
+
+1433
+00:22:28,733 --> 00:22:30,933
+面对关于道德的难题
+
+1434
+00:22:30,933 --> 00:22:33,400
+以及他们工作的长期影响
+
+1435
+00:22:35,666 --> 00:22:38,200
+我记得我们第一次回应
+
+1436
+00:22:38,400 --> 00:22:40,800
+科学家们是怎么想的
+
+1437
+00:22:41,033 --> 00:22:43,466
+说他们想各种各样的事情
+
+1438
+00:22:43,466 --> 00:22:45,000
+这是很自然的
+
+1439
+00:22:45,233 --> 00:22:47,066
+呃一方面他们希望
+
+1440
+00:22:47,633 --> 00:22:51,066
+这种工具永远不会在战争中使用
+
+1441
+00:22:52,833 --> 00:22:53,833
+因此
+
+1442
+00:22:54,733 --> 00:22:56,233
+他们希望我们不要
+
+1443
+00:22:57,266 --> 00:22:58,866
+从使用它开始
+
+1444
+00:22:59,100 --> 00:23:01,500
+另一方面他们希望
+
+1445
+00:23:03,066 --> 00:23:04,500
+或者其他人希望
+
+1446
+00:23:04,800 --> 00:23:06,866
+它会结束这场战争
+
+1447
+00:23:07,033 --> 00:23:07,833
+保留
+
+1448
+00:23:08,500 --> 00:23:10,800
+无数的生命去结束了它
+
+1449
+00:23:10,833 --> 00:23:12,000
+它会出来的
+
+1450
+00:23:12,333 --> 00:23:14,700
+迟早在国会听证会上
+
+1451
+00:23:14,933 --> 00:23:16,066
+如果没有别的地方
+
+1452
+00:23:16,233 --> 00:23:18,733
+就在我们可以投下炸弹的时候
+
+1453
+00:23:19,000 --> 00:23:20,200
+如果我们不使用它
+
+1454
+00:23:20,833 --> 00:23:22,066
+然后
+
+1455
+00:23:22,400 --> 00:23:26,233
+你和我一样了解美国政治
+
+1456
+00:23:27,000 --> 00:23:28,333
+有过选举
+
+1457
+00:23:28,333 --> 00:23:31,600
+斗争的基础是每个儿子的母亲
+
+1458
+00:23:31,933 --> 00:23:34,633
+在某次约会后被杀
+
+1459
+00:23:35,333 --> 00:23:38,200
+呃总统头上有血
+
+1460
+00:23:38,633 --> 00:23:39,666
+问题
+
+1461
+00:23:39,900 --> 00:23:42,100
+是我们是否想拯救
+
+1462
+00:23:42,433 --> 00:23:46,433
+我们的人民和日本人，赢得战争
+
+1463
+00:23:46,533 --> 00:23:47,700
+或者我们是否愿意
+
+1464
+00:23:48,300 --> 00:23:51,800
+冒险赢得战争
+
+1465
+00:23:51,833 --> 00:23:53,666
+杀死我们所有的年轻人
+
+1466
+00:24:04,266 --> 00:24:05,800
+随着和平的回归
+
+1467
+00:24:05,800 --> 00:24:09,100
+美国各地爆发了庆祝活动
+
+1468
+00:24:10,066 --> 00:24:11,300
+战争结束了
+
+1469
+00:24:11,300 --> 00:24:14,433
+美国公众如释重负地欢迎胜利
+
+1470
+00:24:14,433 --> 00:24:15,333
+和骄傲
+
+1471
+00:24:16,033 --> 00:24:18,300
+罗伯特·奥本海默博士成了家喻户晓的名字
+
+1472
+00:24:18,300 --> 00:24:20,633
+因为他在制造原子弹中的重大作用
+
+1473
+00:24:20,633 --> 00:24:22,233
+帮助结束战争
+
+1474
+00:24:23,833 --> 00:24:24,833
+同时
+
+1475
+00:24:25,233 --> 00:24:28,033
+杜鲁门总统认为这种武器是一种强大的工具
+
+1476
+00:24:28,033 --> 00:24:29,700
+来巩固他的地位
+
+1477
+00:24:29,933 --> 00:24:32,000
+无论是在国内还是在全球舞台上
+
+1478
+00:24:32,000 --> 00:24:34,733
+尤其是对苏联
+
+1479
+00:24:35,633 --> 00:24:38,200
+在军事顾问的鼓励下
+
+1480
+00:24:38,266 --> 00:24:39,933
+他开始追求一种策略
+
+1481
+00:24:39,933 --> 00:24:42,300
+扩大美国的军事优势
+
+1482
+00:24:42,300 --> 00:24:44,100
+通过核优势
+
+1483
+00:24:46,266 --> 00:24:48,733
+炸弹不仅改变了战争
+
+1484
+00:24:48,833 --> 00:24:51,600
+但是美国军事政策的方向
+
+1485
+00:24:54,666 --> 00:24:57,733
+随着战争的发展，他们看到了这一点
+
+1486
+00:24:57,733 --> 00:24:59,033
+几乎可以肯定
+
+1487
+00:24:59,033 --> 00:25:01,033
+他们将能够制造这些炸弹
+
+1488
+00:25:01,400 --> 00:25:03,700
+尤其是我的祖父
+
+1489
+00:25:03,700 --> 00:25:06,533
+尼尔·博尔的影响力开始转向
+
+1490
+00:25:06,633 --> 00:25:07,933
+他们的想法
+
+1491
+00:25:07,933 --> 00:25:11,533
+这些武器的威力能结束所有战争吗？
+
+1492
+00:25:11,533 --> 00:25:13,600
+这就是他们开始考虑的不是
+
+1493
+00:25:13,900 --> 00:25:15,233
+你知道我们要制造这些炸弹吗？
+
+1494
+00:25:15,233 --> 00:25:16,900
+然后自己控制这些炸弹
+
+1495
+00:25:16,900 --> 00:25:19,933
+但是他们看到了人性的改变
+
+1496
+00:25:19,933 --> 00:25:22,533
+人类相互联系的方式
+
+1497
+00:25:22,666 --> 00:25:26,600
+因为已经制造出如此强大的技术
+
+1498
+00:25:26,866 --> 00:25:31,300
+如果你有一场全面战争，你就可以终结人类
+
+1499
+00:25:31,400 --> 00:25:33,233
+这是科学家们真正
+
+1500
+00:25:33,233 --> 00:25:34,633
+开始专注于
+
+1501
+00:25:34,633 --> 00:25:35,100
+和
+
+1502
+00:25:35,100 --> 00:25:38,300
+此外，还有一种方法可以控制它
+
+1503
+00:25:38,433 --> 00:25:39,933
+和军事方面
+
+1504
+00:25:39,933 --> 00:25:40,600
+和政府
+
+1505
+00:25:40,600 --> 00:25:42,900
+政治方面没有跟上这一点
+
+1506
+00:25:42,900 --> 00:25:44,500
+他们还在想
+
+1507
+00:25:44,733 --> 00:25:46,466
+这些东西像火枪或大炮
+
+1508
+00:25:46,466 --> 00:25:47,133
+我们有武器
+
+1509
+00:25:47,133 --> 00:25:48,933
+让我们制造尽可能多的武器
+
+1510
+00:25:48,933 --> 00:25:50,100
+我们会变得更强大
+
+1511
+00:25:50,100 --> 00:25:51,000
+这很好。
+
+1512
+00:25:51,233 --> 00:25:53,000
+但是科学家们
+
+1513
+00:25:53,000 --> 00:25:54,466
+尤其是我的祖父
+
+1514
+00:25:54,466 --> 00:25:56,700
+尼尔斯·玻尔和其他一些科学家
+
+1515
+00:25:56,866 --> 00:25:59,033
+认为的意义
+
+1516
+00:25:59,033 --> 00:26:01,300
+这种特殊类型的技术
+
+1517
+00:26:01,300 --> 00:26:03,100
+我们必须一起工作
+
+1518
+00:26:03,100 --> 00:26:04,633
+以一种新的方式在人性中
+
+1519
+00:26:04,800 --> 00:26:05,800
+因为如果我们不这样做
+
+1520
+00:26:05,800 --> 00:26:08,466
+它将不可避免地以军备竞赛告终
+
+1521
+00:26:08,533 --> 00:26:10,800
+然后用武器互相攻击
+
+1522
+00:26:10,800 --> 00:26:13,333
+并摧毁一切
+
+1523
+00:26:14,733 --> 00:26:17,433
+转向那个问题就是他所做的
+
+1524
+00:26:17,433 --> 00:26:19,933
+同时完成他的任务
+
+1525
+00:26:19,933 --> 00:26:21,533
+和他必须做的工作
+
+1526
+00:26:21,633 --> 00:26:23,233
+那就是打仗
+
+1527
+00:26:23,233 --> 00:26:25,066
+他和其他人一样在打仗
+
+1528
+00:26:26,466 --> 00:26:28,200
+同时格罗夫斯将军
+
+1529
+00:26:28,200 --> 00:26:30,833
+收到了美国陆军的绝密备忘录
+
+1530
+00:26:30,833 --> 00:26:32,500
+空军司令部
+
+1531
+00:26:33,100 --> 00:26:36,000
+1945年9月
+
+1532
+00:26:36,300 --> 00:26:38,000
+文件列出的计划
+
+1533
+00:26:38,000 --> 00:26:40,933
+立即开始大规模生产核武器
+
+1534
+00:26:41,800 --> 00:26:44,300
+这与奥本海默
+
+1535
+00:26:44,300 --> 00:26:45,266
+曾希望的背道而驰
+
+1536
+00:26:47,733 --> 00:26:50,100
+备忘录确定了苏联
+
+1537
+00:26:50,100 --> 00:26:51,933
+作为未来可能的对手
+
+1538
+00:26:52,866 --> 00:26:55,200
+备忘录继续进行最佳打击
+
+1539
+00:26:55,533 --> 00:26:58,833
+将针对66个具有战略重要性的城市
+
+1540
+00:26:58,900 --> 00:27:00,066
+这将需要
+
+1541
+00:27:00,333 --> 00:27:02,033
+204枚核弹
+
+1542
+00:27:02,600 --> 00:27:04,300
+足以摧毁这个国家
+
+1543
+00:27:09,800 --> 00:27:12,033
+到1945年秋天
+
+1544
+00:27:12,133 --> 00:27:13,866
+很明显军方想要
+
+1545
+00:27:13,866 --> 00:27:16,100
+迅速扩大其核武库
+
+1546
+00:27:16,233 --> 00:27:17,500
+这条消息被传递了
+
+1547
+00:27:17,500 --> 00:27:19,400
+直接给杜鲁门总统
+
+1548
+00:27:22,400 --> 00:27:23,233
+同时
+
+1549
+00:27:23,233 --> 00:27:24,700
+日益增长的不满正在蔓延
+
+1550
+00:27:24,700 --> 00:27:26,866
+在失落的阿拉莫斯的许多科学家中
+
+1551
+00:27:27,066 --> 00:27:29,500
+谁没有预料到这种升级
+
+1552
+00:27:31,400 --> 00:27:32,533
+奥本海默博士
+
+1553
+00:27:32,666 --> 00:27:34,733
+大概知道备忘录的人
+
+1554
+00:27:34,733 --> 00:27:36,300
+和计划生产
+
+1555
+00:27:36,300 --> 00:27:37,833
+204颗原子弹
+
+1556
+00:27:37,833 --> 00:27:39,233
+深切关注
+
+1557
+00:27:40,666 --> 00:27:43,900
+实验室的科学家敦促他采取行动
+
+1558
+00:27:44,200 --> 00:27:45,533
+并表达他们的担忧
+
+1559
+00:27:45,533 --> 00:27:47,700
+直接交给战争部长
+
+1560
+00:27:48,233 --> 00:27:49,900
+还有总统
+
+1561
+00:27:52,500 --> 00:27:56,266
+最近发现的一份备忘录描述了一个九月
+
+1562
+00:27:56,266 --> 00:27:59,833
+1945年的会议揭示了日益紧张的局势
+
+1563
+00:27:59,833 --> 00:28:01,833
+在制造炸弹的人当中
+
+1564
+00:28:03,466 --> 00:28:05,100
+它注意到有
+
+1565
+00:28:05,100 --> 00:28:06,833
+他们明显反对
+
+1566
+00:28:06,833 --> 00:28:08,866
+在任何炸弹上做更多的工作
+
+1567
+00:28:08,866 --> 00:28:11,266
+不仅仅是超级炸弹而是任何炸弹
+
+1568
+00:28:12,466 --> 00:28:14,233
+奥本海默问乔治·哈里森
+
+1569
+00:28:14,233 --> 00:28:16,033
+陆军部长助理
+
+1570
+00:28:16,033 --> 00:28:17,800
+安排与杜鲁门总统会面
+
+1571
+00:28:17,800 --> 00:28:19,033
+尽快
+
+1572
+00:28:21,733 --> 00:28:25,333
+他仍然相信科学家之间的公开对话
+
+1573
+00:28:25,333 --> 00:28:26,300
+政治领导人
+
+1574
+00:28:26,300 --> 00:28:27,100
+和国家
+
+1575
+00:28:27,100 --> 00:28:29,600
+可能有助于遏制核武器的作用
+
+1576
+00:28:29,600 --> 00:28:31,266
+在未来的冲突中
+
+1577
+00:28:34,266 --> 00:28:36,600
+当Groves将军得知抵抗时
+
+1578
+00:28:36,600 --> 00:28:37,733
+在洛斯阿拉莫斯
+
+1579
+00:28:37,866 --> 00:28:40,300
+他迅速采取行动将科学家一分为二
+
+1580
+00:28:40,300 --> 00:28:41,600
+独立组
+
+1581
+00:28:43,733 --> 00:28:47,666
+一组将继续进行非军事研究
+
+1582
+00:28:48,733 --> 00:28:51,666
+另一个会研究新的原子武器
+
+1583
+00:28:54,666 --> 00:28:57,100
+制造204枚炸弹
+
+1584
+00:28:57,100 --> 00:28:59,333
+军方需要更大的设施
+
+1585
+00:28:59,333 --> 00:29:01,400
+可以全天候运行
+
+1586
+00:29:02,200 --> 00:29:04,800
+洛斯阿拉莫斯已经不够用了
+
+1587
+00:29:05,900 --> 00:29:07,633
+计划建立一个新基地
+
+1588
+00:29:07,633 --> 00:29:09,466
+在阿尔伯克基附近叫桑迪亚
+
+1589
+00:29:12,000 --> 00:29:14,800
+那里的炸弹设计和生产将继续
+
+1590
+00:29:15,066 --> 00:29:18,000
+计划中包括储存掩体
+
+1591
+00:29:23,233 --> 00:29:25,300
+1945年10月
+
+1592
+00:29:25,300 --> 00:29:28,333
+新墨西哥州发生了两起重大军事事件
+
+1593
+00:29:31,000 --> 00:29:31,733
+第一
+
+1594
+00:29:31,733 --> 00:29:34,833
+是第509合成集团的离开
+
+1595
+00:29:34,900 --> 00:29:37,066
+扔炸弹的同一支部队
+
+1596
+00:29:37,133 --> 00:29:38,433
+来自天宁岛
+
+1597
+00:29:38,433 --> 00:29:40,700
+他们在沃克陆军空军基地的新职位
+
+1598
+00:29:40,700 --> 00:29:41,666
+在罗斯威尔
+
+1599
+00:29:43,066 --> 00:29:44,933
+底座设计用于支持B
+
+1600
+00:29:45,133 --> 00:29:48,000
+29架轰炸机，为原子任务做准备
+
+1601
+00:29:49,866 --> 00:29:50,866
+环带盖伊
+
+1602
+00:29:51,400 --> 00:29:52,833
+轰炸了广岛
+
+1603
+00:29:53,200 --> 00:29:54,600
+是这次转移的一部分
+
+1604
+00:29:55,500 --> 00:29:57,500
+帕特里克·亨利·桑德斯上校
+
+1605
+00:29:57,500 --> 00:29:59,333
+是助理基地指挥官
+
+1606
+00:30:01,800 --> 00:30:02,833
+他的女儿苏珊
+
+1607
+00:30:02,833 --> 00:30:06,266
+仍然记得罗斯威尔空军基地的重要性
+
+1608
+00:30:06,733 --> 00:30:09,833
+罗斯威尔的重要性在于它是唯一
+
+1609
+00:30:10,033 --> 00:30:14,666
+当时世界上的核打击力量基地
+
+1610
+00:30:15,133 --> 00:30:16,533
+这是
+
+1611
+00:30:17,333 --> 00:30:19,033
+那个地方
+
+1612
+00:30:19,933 --> 00:30:22,033
+拥有核弹
+
+1613
+00:30:22,233 --> 00:30:24,266
+并且是
+
+1614
+00:30:24,400 --> 00:30:25,733
+高度机密
+
+1615
+00:30:25,733 --> 00:30:28,866
+洛斯阿拉莫斯之间发生的信息
+
+1616
+00:30:28,866 --> 00:30:30,066
+和Al Magordo
+
+1617
+00:30:30,066 --> 00:30:34,066
+还有布利斯堡和罗斯威尔
+
+1618
+00:30:34,866 --> 00:30:36,066
+第二发展
+
+1619
+00:30:36,066 --> 00:30:38,633
+是第一批德国V2火箭的到来
+
+1620
+00:30:38,633 --> 00:30:41,600
+在新成立的白沙试验场
+
+1621
+00:30:41,600 --> 00:30:44,866
+以前是阿拉莫戈多轰炸和射击靶场
+
+1622
+00:30:44,866 --> 00:30:47,033
+在那里测试了第一颗原子弹
+
+1623
+00:30:47,033 --> 00:30:48,666
+就在两个月前
+
+1624
+00:30:51,866 --> 00:30:54,466
+哈普将军的军事报告Arnold
+
+1625
+00:30:54,600 --> 00:30:56,933
+敦促美国追求核
+
+1626
+00:30:56,933 --> 00:30:58,266
+武装火箭计划
+
+1627
+00:30:59,666 --> 00:31:02,833
+德国的技术现在掌握在美国人手中
+
+1628
+00:31:03,666 --> 00:31:05,800
+奥本海默得知了这两件事
+
+1629
+00:31:05,800 --> 00:31:08,633
+看到了军事政策的发展方向
+
+1630
+00:31:11,866 --> 00:31:14,800
+核武器发展的加速
+
+1631
+00:31:14,800 --> 00:31:16,133
+深深困扰着他
+
+1632
+00:31:19,533 --> 00:31:23,266
+他递交辞呈辞去洛斯阿拉莫斯董事的职务
+
+1633
+00:31:29,500 --> 00:31:32,533
+奥本海默辞职的消息迅速传开
+
+1634
+00:31:32,533 --> 00:31:33,833
+穿过洛斯阿拉莫斯
+
+1635
+00:31:35,300 --> 00:31:36,200
+格罗夫斯将军
+
+1636
+00:31:36,200 --> 00:31:38,300
+科学团队想向奥本海默致敬
+
+1637
+00:31:38,300 --> 00:31:39,700
+在他离开之前
+
+1638
+00:31:40,233 --> 00:31:42,666
+纪念军队赐予的仪式
+
+1639
+00:31:42,666 --> 00:31:43,800
+海军卓越奖
+
+1640
+00:31:43,800 --> 00:31:45,300
+是个绝佳的机会
+
+1641
+00:31:46,100 --> 00:31:49,633
+奥本海默决定在十月举行e颁奖典礼
+
+1642
+00:31:49,633 --> 00:31:52,633
+1945年是他在实验室的最后一天
+
+1643
+00:31:54,200 --> 00:31:57,866
+这件事既是庆祝又是庄严的告别
+
+1644
+00:31:59,100 --> 00:32:00,266
+在他的演讲中
+
+1645
+00:32:00,466 --> 00:32:00,900
+奥本海默
+
+1646
+00:32:00,900 --> 00:32:03,866
+会表达他沉重的担忧
+
+1647
+00:32:06,433 --> 00:32:08,466
+格罗夫斯将军介绍了
+
+1648
+00:32:08,466 --> 00:32:11,533
+奥本海默致聚集在一起的来宾和工作人员
+
+1649
+00:32:15,900 --> 00:32:18,700
+收到他的感谢状后
+
+1650
+00:32:18,933 --> 00:32:20,800
+奥本海默在集会上致辞
+
+1651
+00:32:20,800 --> 00:32:23,033
+简短而有力的演讲
+
+1652
+00:32:24,700 --> 00:32:26,500
+这是我们的希望奥本海默说
+
+1653
+00:32:26,700 --> 00:32:28,033
+在未来的几年里
+
+1654
+00:32:28,033 --> 00:32:29,700
+我们可以看看这个卷轴
+
+1655
+00:32:29,733 --> 00:32:31,866
+以及它所象征的骄傲
+
+1656
+00:32:32,433 --> 00:32:33,266
+今天
+
+1657
+00:32:33,266 --> 00:32:36,833
+这种骄傲必须带着深切的关心
+
+1658
+00:32:37,500 --> 00:32:40,066
+如果要增加原子弹作为新武器
+
+1659
+00:32:40,066 --> 00:32:42,133
+交战世界的军火库
+
+1660
+00:32:42,466 --> 00:32:45,300
+或者准备战争的国家的武器库
+
+1661
+00:32:45,700 --> 00:32:48,200
+那么人类诅咒的时候就会到来
+
+1662
+00:32:48,200 --> 00:32:49,533
+洛斯阿拉莫斯的名字
+
+1663
+00:32:49,533 --> 00:32:50,500
+和广岛
+
+1664
+00:32:51,800 --> 00:32:54,033
+全世界人民必须团结起来
+
+1665
+00:32:54,033 --> 00:32:55,500
+否则他们会灭亡
+
+1666
+00:32:58,800 --> 00:33:02,300
+他的话反映了对未来的深切忧虑
+
+1667
+00:33:02,600 --> 00:33:06,100
+他的警告感动了许多那天听的人
+
+1668
+00:33:10,400 --> 00:33:11,666
+洛斯阿拉莫斯社区
+
+1669
+00:33:11,666 --> 00:33:13,900
+被奥本海默的离开所动摇
+
+1670
+00:33:14,333 --> 00:33:17,300
+他的离开只是增加了对会议的期待
+
+1671
+00:33:17,300 --> 00:33:18,100
+在白宫
+
+1672
+00:33:18,100 --> 00:33:19,500
+杜鲁门总统
+
+1673
+00:33:19,733 --> 00:33:22,400
+尽管他辞职了，但该计划仍将继续
+
+1674
+00:33:26,666 --> 00:33:28,600
+奥本海默仍然坚信
+
+1675
+00:33:28,600 --> 00:33:31,066
+科学家之间的公开交流
+
+1676
+00:33:31,066 --> 00:33:32,100
+政治领导人
+
+1677
+00:33:32,100 --> 00:33:34,300
+国际社会是必不可少的
+
+1678
+00:33:34,300 --> 00:33:36,666
+限制核武器的威胁
+
+1679
+00:33:37,466 --> 00:33:38,533
+这是消息
+
+1680
+00:33:38,533 --> 00:33:40,666
+他想送给杜鲁门总统
+
+1681
+00:33:41,000 --> 00:33:44,433
+但杜鲁门只同意了他30分钟的会面
+
+1682
+00:33:49,433 --> 00:33:51,666
+Openhemer现在是平民了
+
+1683
+00:33:52,100 --> 00:33:53,866
+正在进入政治舞台
+
+1684
+00:33:53,866 --> 00:33:55,533
+在那里他几乎没有影响力
+
+1685
+00:33:57,266 --> 00:33:59,666
+商务部长亨利·华莱士
+
+1686
+00:33:59,733 --> 00:34:01,333
+谁观察了他的到来
+
+1687
+00:34:01,500 --> 00:34:02,700
+写在他的日记里
+
+1688
+00:34:04,200 --> 00:34:06,900
+我从未见过如此紧张的人
+
+1689
+00:34:06,900 --> 00:34:07,833
+作为奥本海默
+
+1690
+00:34:08,633 --> 00:34:09,633
+他似乎感觉到了
+
+1691
+00:34:09,633 --> 00:34:12,300
+人类的毁灭迫在眉睫
+
+1692
+00:34:16,933 --> 00:34:18,433
+杜鲁门和奥本海默
+
+1693
+00:34:18,433 --> 00:34:19,666
+有非常不同的愿景
+
+1694
+00:34:19,666 --> 00:34:21,666
+为了核武器的未来
+
+1695
+00:34:22,866 --> 00:34:24,400
+杜鲁门已经开始行动了
+
+1696
+00:34:24,400 --> 00:34:26,133
+计划改编德国V2
+
+1697
+00:34:26,133 --> 00:34:27,133
+火箭技术
+
+1698
+00:34:27,133 --> 00:34:28,466
+用于原子交付
+
+1699
+00:34:30,033 --> 00:34:31,700
+观察家说奥本海默
+
+1700
+00:34:31,833 --> 00:34:32,633
+好像
+
+1701
+00:34:32,633 --> 00:34:35,666
+他把世界的重担扛在肩上
+
+1702
+00:34:38,400 --> 00:34:39,666
+会议开始时
+
+1703
+00:34:40,133 --> 00:34:41,800
+杜鲁门总统要求他
+
+1704
+00:34:42,633 --> 00:34:43,800
+奥本海默博士
+
+1705
+00:34:44,066 --> 00:34:46,633
+俄国人什么时候会研制出核武器
+
+1706
+00:34:52,500 --> 00:34:53,533
+奥本海默回答说
+
+1707
+00:34:53,833 --> 00:34:55,866
+总统先生我不知道
+
+1708
+00:34:56,500 --> 00:34:58,666
+杜鲁门提高嗓门说绝不
+
+1709
+00:34:59,233 --> 00:35:00,800
+然后他发表了声明
+
+1710
+00:35:02,300 --> 00:35:05,400
+我们已经花了20亿多美元
+
+1711
+00:35:05,400 --> 00:35:08,533
+历史上最大的科学赌博
+
+1712
+00:35:09,000 --> 00:35:10,400
+我们赢了
+
+1713
+00:35:11,433 --> 00:35:12,800
+但最伟大的奇迹
+
+1714
+00:35:12,800 --> 00:35:15,233
+不是企业的规模
+
+1715
+00:35:15,400 --> 00:35:18,100
+它的秘密或它的成本
+
+1716
+00:35:18,533 --> 00:35:21,033
+但是科学大脑的成就
+
+1717
+00:35:21,033 --> 00:35:22,333
+让它工作
+
+1718
+00:35:22,900 --> 00:35:24,133
+我们做了一件事
+
+1719
+00:35:24,600 --> 00:35:26,100
+最可怕的武器
+
+1720
+00:35:26,633 --> 00:35:29,033
+突然而深刻地改变了
+
+1721
+00:35:29,033 --> 00:35:30,300
+世界的本质
+
+1722
+00:35:31,000 --> 00:35:31,933
+我们做了一件事
+
+1723
+00:35:31,933 --> 00:35:34,500
+以我们成长的世界的所有标准来看
+
+1724
+00:35:34,500 --> 00:35:35,700
+是一件邪恶的事情
+
+1725
+00:35:36,200 --> 00:35:38,200
+好吧，有一件事我可以对你说
+
+1726
+00:35:38,200 --> 00:35:40,133
+任何学生的后见之明
+
+1727
+00:35:40,233 --> 00:35:42,800
+值得所有的是慷慨的远见
+
+1728
+00:35:43,133 --> 00:35:43,800
+你不知道吗？
+
+1729
+00:35:43,800 --> 00:35:46,000
+任何学生的事后想法都比一切都重要
+
+1730
+00:35:46,000 --> 00:35:47,233
+先见之明
+
+1731
+00:35:47,400 --> 00:35:50,066
+所以事后的想法和事情
+
+1732
+00:35:50,200 --> 00:35:52,200
+对做决定没有影响
+
+1733
+00:35:52,200 --> 00:35:53,100
+当该做的时候
+
+1734
+00:35:53,100 --> 00:35:54,000
+当时
+
+1735
+00:35:54,033 --> 00:35:56,266
+你必须在你当时知道的事情上努力
+
+1736
+00:35:56,433 --> 00:35:58,400
+这就是我所做的，我并不为此感到抱歉
+
+1737
+00:36:00,466 --> 00:36:03,400
+奥本海默看着杜鲁门总统的眼睛说
+
+1738
+00:36:03,700 --> 00:36:07,066
+总统先生我觉得我双手沾满鲜血
+
+1739
+00:36:07,733 --> 00:36:10,666
+这句话激怒了杜鲁门，他回答说
+
+1740
+00:36:11,600 --> 00:36:14,000
+听着我双手沾满鲜血
+
+1741
+00:36:14,000 --> 00:36:15,900
+你让我担心这个
+
+1742
+00:36:17,533 --> 00:36:19,733
+会后杜鲁门被听到喃喃自语
+
+1743
+00:36:20,066 --> 00:36:21,866
+他双手沾满鲜血该死的
+
+1744
+00:36:22,133 --> 00:36:24,666
+他手上沾的血还没我的一半多
+
+1745
+00:36:25,200 --> 00:36:27,500
+你只是不要到处抱怨
+
+1746
+00:36:28,466 --> 00:36:31,500
+杜鲁门坚持必须进行核战争
+
+1747
+00:36:31,500 --> 00:36:32,800
+无泪
+
+1748
+00:36:33,666 --> 00:36:36,266
+他后来指示国务卿迪恩
+
+1749
+00:36:37,233 --> 00:36:38,833
+我不想看到那个狗娘养的
+
+1750
+00:36:38,833 --> 00:36:40,333
+在这个办公室里
+
+1751
+00:36:40,466 --> 00:36:43,000
+不是他放的炸弹是我放的
+
+1752
+00:36:46,133 --> 00:36:47,433
+在其他评论中
+
+1753
+00:36:47,433 --> 00:36:51,466
+杜鲁门把奥本海默斥为爱哭的科学家
+
+1754
+00:36:52,600 --> 00:36:53,233
+很明显
+
+1755
+00:36:53,233 --> 00:36:55,300
+这两个人有根本不同的观点
+
+1756
+00:36:55,300 --> 00:36:57,900
+核武器的意义和未来
+
+1757
+00:36:58,666 --> 00:37:00,633
+当奥本海默离开白宫时
+
+1758
+00:37:00,633 --> 00:37:02,066
+记者立即问他
+
+1759
+00:37:02,066 --> 00:37:03,400
+会议进展如何
+
+1760
+00:37:05,400 --> 00:37:08,400
+在未来的几年里，有可能杀死
+
+1761
+00:37:08,633 --> 00:37:10,666
+4000万美国人民
+
+1762
+00:37:10,866 --> 00:37:13,666
+在美国最大的20个城镇
+
+1763
+00:37:14,433 --> 00:37:17,733
+在一夜之间使用原子弹
+
+1764
+00:37:18,466 --> 00:37:21,400
+恐怕这个问题的答案是肯定的
+
+1765
+00:37:21,500 --> 00:37:22,866
+我认为唯一的希望
+
+1766
+00:37:23,466 --> 00:37:27,200
+为了我们未来的安全必须依靠合作
+
+1767
+00:37:27,466 --> 00:37:29,666
+基于信心和诚意
+
+1768
+00:37:30,100 --> 00:37:31,800
+与世界其他民族
+
+1769
+00:37:32,900 --> 00:37:34,900
+几所大学了解到
+
+1770
+00:37:34,900 --> 00:37:37,633
+奥本海默希望回归学术生活
+
+1771
+00:37:37,900 --> 00:37:39,533
+他收到了许多邀请
+
+1772
+00:37:39,533 --> 00:37:42,033
+包括加州理工学院的
+
+1773
+00:37:42,033 --> 00:37:43,033
+在帕萨迪纳
+
+1774
+00:37:44,433 --> 00:37:46,866
+奥本海默决定不接受全职
+
+1775
+00:37:46,866 --> 00:37:48,033
+教职
+
+1776
+00:37:48,066 --> 00:37:49,666
+而是讲课
+
+1777
+00:37:50,266 --> 00:37:52,500
+虽然他现在有更多的时间和家人在一起
+
+1778
+00:37:52,700 --> 00:37:55,800
+他意识到他的心已经不在教学上了
+
+1779
+00:37:57,033 --> 00:37:58,933
+他仍然持有安全许可
+
+1780
+00:37:58,933 --> 00:38:01,100
+并继续参与国家政策
+
+1781
+00:38:01,266 --> 00:38:01,700
+发球
+
+1782
+00:38:01,700 --> 00:38:04,033
+在原子能发展局董事会
+
+1783
+00:38:04,066 --> 00:38:06,033
+后来原子能委员会
+
+1784
+00:38:08,033 --> 00:38:10,200
+他继续主张控制
+
+1785
+00:38:10,200 --> 00:38:12,033
+核知识交流
+
+1786
+00:38:12,033 --> 00:38:13,400
+全球的基础
+
+1787
+00:38:13,400 --> 00:38:15,500
+核科学家网络
+
+1788
+00:38:15,600 --> 00:38:18,500
+以及核武器的全球限制
+
+1789
+00:38:20,466 --> 00:38:21,900
+他公开讲话
+
+1790
+00:38:21,900 --> 00:38:25,400
+关于原子时代的危险和希望
+
+1791
+00:38:25,733 --> 00:38:28,800
+经常引用林肯的葛底斯堡演说
+
+1792
+00:38:31,300 --> 00:38:34,200
+作为一个政治家他给人留下了深刻的印象
+
+1793
+00:38:34,533 --> 00:38:36,400
+他上了时代周刊的封面
+
+1794
+00:38:36,400 --> 00:38:38,733
+生活和其他全国性杂志
+
+1795
+00:38:39,300 --> 00:38:42,300
+四次被提名诺贝尔奖
+
+1796
+00:38:42,300 --> 00:38:43,400
+在物理学中
+
+1797
+00:38:44,066 --> 00:38:45,266
+在此期间
+
+1798
+00:38:45,300 --> 00:38:48,233
+奥本海默成为一位杰出的公共知识分子
+
+1799
+00:38:48,400 --> 00:38:50,866
+定期就科学和政策进行咨询
+
+1800
+00:38:50,866 --> 00:38:52,033
+由美国和
+
+1801
+00:38:52,033 --> 00:38:53,433
+国际人物
+
+1802
+00:38:57,100 --> 00:39:01,233
+1947年，刘易斯·施特劳斯邀请奥本海默
+
+1803
+00:39:01,300 --> 00:39:03,066
+成为研究所的主任
+
+1804
+00:39:03,066 --> 00:39:04,000
+高级学习
+
+1805
+00:39:04,000 --> 00:39:05,666
+在新泽西州的普林斯顿
+
+1806
+00:39:06,800 --> 00:39:08,900
+这个角色使他能够继续他的工作
+
+1807
+00:39:08,900 --> 00:39:10,100
+与领先的科学家
+
+1808
+00:39:10,100 --> 00:39:12,000
+扩大他的影响力
+
+1809
+00:39:15,133 --> 00:39:15,433
+但是
+
+1810
+00:39:15,433 --> 00:39:18,133
+与施特劳斯的合作后来证明是决定性的
+
+1811
+00:39:18,300 --> 00:39:21,000
+并导致他失去安全权限
+
+1812
+00:39:28,633 --> 00:39:30,900
+在Edward Teller博士的敦促下
+
+1813
+00:39:30,900 --> 00:39:32,866
+来自洛斯阿拉莫斯的前同事
+
+1814
+00:39:33,233 --> 00:39:34,833
+美国国会被说服
+
+1815
+00:39:34,833 --> 00:39:37,000
+资助开发更强大的
+
+1816
+00:39:37,000 --> 00:39:38,133
+氢弹
+
+1817
+00:39:40,666 --> 00:39:42,833
+奥本海默反对这个项目
+
+1818
+00:39:42,833 --> 00:39:45,266
+并呼吁国会停止拨款
+
+1819
+00:39:49,333 --> 00:39:51,866
+他的反对激怒了施特劳斯
+
+1820
+00:39:52,133 --> 00:39:53,700
+他已经成为美国的主席
+
+1821
+00:39:53,700 --> 00:39:55,133
+原子能委员会
+
+1822
+00:39:57,500 --> 00:39:59,200
+和艾森豪威尔总统一起
+
+1823
+00:39:59,200 --> 00:40:02,433
+施特劳斯主张更具侵略性的军事姿态
+
+1824
+00:40:05,100 --> 00:40:06,100
+在公开听证会上
+
+1825
+00:40:06,100 --> 00:40:08,833
+奥本海默的反抗让施特劳斯主席很尴尬
+
+1826
+00:40:09,066 --> 00:40:10,533
+这是最后一根稻草
+
+1827
+00:40:11,633 --> 00:40:12,333
+不久之后
+
+1828
+00:40:12,333 --> 00:40:14,600
+施特劳斯和华盛顿的一个小圈子
+
+1829
+00:40:14,633 --> 00:40:16,200
+其中有联邦调查局局长
+
+1830
+00:40:16,200 --> 00:40:17,066
+J·埃德加·胡佛
+
+1831
+00:40:17,133 --> 00:40:19,800
+开始散布关于奥本海默
+
+1832
+00:40:19,866 --> 00:40:21,433
+和共产党有联系
+
+1833
+00:40:21,433 --> 00:40:23,500
+并构成国家安全风险
+
+1834
+00:40:28,333 --> 00:40:31,200
+尽管当地FBI探员反对
+
+1835
+00:40:31,300 --> 00:40:33,200
+奥本海默之间的一些对话
+
+1836
+00:40:33,200 --> 00:40:34,133
+和他的法律团队
+
+1837
+00:40:34,133 --> 00:40:35,633
+被秘密记录
+
+1838
+00:40:36,700 --> 00:40:38,633
+他的律师劳埃德·加里森
+
+1839
+00:40:38,633 --> 00:40:41,033
+不允许知道证人的完整名单
+
+1840
+00:40:41,033 --> 00:40:41,833
+那可以叫做
+
+1841
+00:40:41,833 --> 00:40:42,666
+在听证会上
+
+1842
+00:40:43,700 --> 00:40:45,700
+在听证会期间多次
+
+1843
+00:40:45,833 --> 00:40:47,866
+Garrison被要求离开房间
+
+1844
+00:40:47,866 --> 00:40:50,200
+在讨论机密问题时
+
+1845
+00:40:54,866 --> 00:40:56,100
+一个以上的列表
+
+1846
+00:40:56,200 --> 00:40:57,833
+有40名证人出庭作证
+
+1847
+00:40:58,000 --> 00:41:00,466
+但没有提供具体证据
+
+1848
+00:41:01,333 --> 00:41:05,133
+听证会变成了一场不旨在伸张正义的宗教裁判所
+
+1849
+00:41:05,200 --> 00:41:07,133
+而是抹黑奥本海默
+
+1850
+00:41:09,000 --> 00:41:12,900
+我完全负责选择博士
+
+1851
+00:41:13,266 --> 00:41:14,266
+奥本海默
+
+1852
+00:41:14,866 --> 00:41:18,833
+作为洛斯阿拉莫斯炸弹实验室的负责人
+
+1853
+00:41:20,066 --> 00:41:21,500
+什么都没发生
+
+1854
+00:41:22,866 --> 00:41:24,733
+在婚外情期间
+
+1855
+00:41:24,733 --> 00:41:25,900
+或之后
+
+1856
+00:41:26,233 --> 00:41:30,266
+这让我相信这不是一个明智的选择
+
+1857
+00:41:30,666 --> 00:41:32,433
+做出决定后
+
+1858
+00:41:32,433 --> 00:41:34,133
+施特劳斯打电话给奥本海默
+
+1859
+00:41:34,133 --> 00:41:35,266
+通知他
+
+1860
+00:41:35,266 --> 00:41:37,866
+他的安全许可被撤销了
+
+1861
+00:41:38,300 --> 00:41:39,666
+反应迅速
+
+1862
+00:41:40,633 --> 00:41:44,600
+来自洛斯阿拉莫斯的494名科学家签署了一份抗议
+
+1863
+00:41:44,833 --> 00:41:46,400
+拿自己的事业冒险
+
+1864
+00:41:51,933 --> 00:41:53,833
+解密记录
+
+1865
+00:41:53,833 --> 00:41:56,200
+包括完整的听证会记录
+
+1866
+00:41:56,533 --> 00:42:00,000
+确认从未提供过可信的证据
+
+1867
+00:42:03,733 --> 00:42:06,500
+奥本海默长期秘书的笔记
+
+1868
+00:42:06,500 --> 00:42:07,700
+多萝西·麦基本
+
+1869
+00:42:08,400 --> 00:42:10,666
+显示在联邦调查局声称的那天
+
+1870
+00:42:10,666 --> 00:42:12,266
+他遇到了一个共产主义同情者
+
+1871
+00:42:12,266 --> 00:42:15,833
+在伯克利，他实际上在新墨西哥州。
+
+1872
+00:42:23,600 --> 00:42:25,666
+奥本海默的幻灭很明显
+
+1873
+00:42:25,666 --> 00:42:27,900
+在他裁决后的陈述中
+
+1874
+00:42:34,300 --> 00:42:35,433
+你的想法是什么
+
+1875
+00:42:35,433 --> 00:42:37,900
+我们的原子政策应该是什么
+
+1876
+00:42:38,400 --> 00:42:41,433
+不，我不能这么做，我没有。
+
+1877
+00:42:41,733 --> 00:42:43,066
+不够接近
+
+1878
+00:42:44,233 --> 00:42:47,333
+事实是我不够接近
+
+1879
+00:42:48,000 --> 00:42:49,833
+那些人的想法
+
+1880
+00:42:51,200 --> 00:42:52,433
+正在担心它
+
+1881
+00:42:53,533 --> 00:42:57,100
+很明显，你不能扼杀这个概念
+
+1882
+00:42:57,333 --> 00:42:59,833
+近年来变得复杂了
+
+1883
+00:43:05,900 --> 00:43:07,600
+科学已经深刻地
+
+1884
+00:43:07,600 --> 00:43:10,033
+改变了人类的生活条件
+
+1885
+00:43:10,933 --> 00:43:14,200
+无论是物质上还是精神上
+
+1886
+00:43:15,000 --> 00:43:17,266
+这扩大了问题的范围
+
+1887
+00:43:17,466 --> 00:43:19,200
+其中人类有选择
+
+1888
+00:43:19,900 --> 00:43:21,700
+这个人的自由
+
+1889
+00:43:22,100 --> 00:43:24,066
+做出重大决定
+
+1890
+00:43:24,733 --> 00:43:26,200
+没人能预测
+
+1891
+00:43:26,266 --> 00:43:28,733
+多么广阔的知识新大陆
+
+1892
+00:43:28,733 --> 00:43:31,033
+科学的未来将发现
+
+1893
+00:43:31,633 --> 00:43:32,200
+但我们知道
+
+1894
+00:43:32,200 --> 00:43:34,800
+只要男人可以自由地问他们会问什么
+
+1895
+00:43:35,033 --> 00:43:36,633
+自由说出他们的想法
+
+1896
+00:43:36,633 --> 00:43:38,233
+自由思考他们必须做的
+
+1897
+00:43:38,533 --> 00:43:40,400
+科学永远不会倒退
+
+1898
+00:43:41,000 --> 00:43:43,666
+自由本身永远不会完全失去
+
+1899
+00:43:45,700 --> 00:43:47,400
+撤销他的许可
+
+1900
+00:43:47,400 --> 00:43:48,100
+有效地
+
+1901
+00:43:48,100 --> 00:43:50,633
+终结了奥本海默对政府的影响
+
+1902
+00:43:50,633 --> 00:43:52,600
+并将他与这个世界隔绝
+
+1903
+00:43:52,600 --> 00:43:53,900
+他帮助塑造了
+
+1904
+00:43:56,066 --> 00:43:59,033
+他后来将安全听证会描述为一场闹剧
+
+1905
+00:43:59,600 --> 00:44:01,033
+尽管他继续讲课
+
+1906
+00:44:01,033 --> 00:44:03,533
+他花越来越多的时间在隐居处
+
+1907
+00:44:03,533 --> 00:44:04,933
+在圣约翰岛上
+
+1908
+00:44:04,933 --> 00:44:05,466
+在美国
+
+1909
+00:44:05,466 --> 00:44:06,500
+维尔京群岛
+
+1910
+00:44:07,133 --> 00:44:09,066
+在那里他建造了一座朴素的海滨别墅
+
+1911
+00:44:09,066 --> 00:44:11,333
+整天和妻子Kitty一起出海
+
+1912
+00:44:11,333 --> 00:44:12,466
+和女儿托尼
+
+1913
+00:44:13,533 --> 00:44:17,066
+尽管他与世隔绝，但国际钦佩依然存在
+
+1914
+00:44:17,100 --> 00:44:18,133
+在1957年
+
+1915
+00:44:18,133 --> 00:44:20,800
+法国任命他为荣誉军团军官
+
+1916
+00:44:24,900 --> 00:44:27,100
+你的思想反映了苏格拉底的思想
+
+1917
+00:44:27,733 --> 00:44:29,400
+你相信对于科学家来说
+
+1918
+00:44:29,400 --> 00:44:31,266
+重要的是认识自己
+
+1919
+00:44:34,466 --> 00:44:37,133
+对每个人来说，不仅仅是对科学家
+
+1920
+00:44:40,866 --> 00:44:41,500
+你相信吗？
+
+1921
+00:44:41,500 --> 00:44:43,600
+科学家能够更好地了解自己
+
+1922
+00:44:43,600 --> 00:44:44,066
+通过他们的工作
+
+1923
+00:44:44,066 --> 00:44:45,266
+以及他们的发现
+
+1924
+00:44:47,400 --> 00:44:49,933
+不，不，这是另一回事。
+
+1925
+00:44:52,733 --> 00:44:54,300
+1963年
+
+1926
+00:44:54,300 --> 00:44:57,266
+为了承认过去的不公正
+
+1927
+00:44:57,466 --> 00:44:58,433
+约翰·F.总统
+
+1928
+00:44:58,433 --> 00:45:01,233
+肯尼迪的顾问们提议授予奥本海默
+
+1929
+00:45:01,266 --> 00:45:02,866
+Enrico Ferrai奖
+
+1930
+00:45:04,833 --> 00:45:06,433
+肯尼迪是个崇拜者
+
+1931
+00:45:06,466 --> 00:45:07,700
+批准了这个手势
+
+1932
+00:45:07,700 --> 00:45:10,333
+并确定在白宫举行仪式的日期
+
+1933
+00:45:14,466 --> 00:45:16,666
+但就在活动前一周
+
+1934
+00:45:16,733 --> 00:45:18,400
+肯尼迪是被暗杀的
+
+1935
+00:45:19,666 --> 00:45:21,666
+他的继任者总统Lyndon B
+
+1936
+00:45:21,666 --> 00:45:23,466
+约翰逊颁奖
+
+1937
+00:45:27,933 --> 00:45:31,233
+我想有可能总统先生
+
+1938
+00:45:31,900 --> 00:45:33,600
+这需要一些慈善机构
+
+1939
+00:45:34,133 --> 00:45:37,400
+以及你今天能获奖的勇气
+
+1940
+00:45:38,700 --> 00:45:40,200
+尽管她很悲伤
+
+1941
+00:45:40,200 --> 00:45:42,533
+杰奎琳·肯尼迪出席了仪式
+
+1942
+00:45:43,533 --> 00:45:46,000
+她强调了该奖项的意义
+
+1943
+00:45:46,000 --> 00:45:47,066
+给她丈夫
+
+1944
+00:45:47,533 --> 00:45:49,700
+她的出现深深打动了奥本海默
+
+1945
+00:45:52,333 --> 00:45:56,466
+1960年他实现了个人愿望访问了日本
+
+1946
+00:45:56,466 --> 00:45:57,666
+并亲眼目睹
+
+1947
+00:45:57,666 --> 00:46:00,233
+原子弹造成的破坏
+
+1948
+00:46:00,900 --> 00:46:01,900
+在他生命的尽头
+
+1949
+00:46:01,900 --> 00:46:02,400
+奥本海默
+
+1950
+00:46:02,400 --> 00:46:05,300
+已经接受了他在塑造原子时代中的角色
+
+1951
+00:46:05,300 --> 00:46:08,300
+在1965年接受《纽约时报》杂志采访时
+
+1952
+00:46:08,300 --> 00:46:10,100
+他反思了那份遗产
+
+1953
+00:46:11,400 --> 00:46:12,666
+我从未后悔过
+
+1954
+00:46:12,666 --> 00:46:16,033
+不要后悔现在已经完成了我的工作
+
+1955
+00:46:19,000 --> 00:46:23,833
+罗伯特·奥本海默于2月死于喉癌
+
+1956
+00:46:24,533 --> 00:46:26,933
+他在普林斯顿的葬礼有朋友参加
+
+1957
+00:46:26,933 --> 00:46:28,800
+同事和政要
+
+1958
+00:46:32,500 --> 00:46:34,200
+他的尸体被火化了
+
+1959
+00:46:34,500 --> 00:46:36,333
+他的骨灰被Kitty撒了
+
+1960
+00:46:36,333 --> 00:46:37,333
+从一艘小船上
+
+1961
+00:46:37,333 --> 00:46:39,466
+在圣约翰他们家的海岸
+
+1962
+00:46:40,266 --> 00:46:43,466
+海滩现在被称为奥本海默海滩
+
+1963
+00:46:48,266 --> 00:46:50,033
+在他最后一次演讲中
+
+1964
+00:46:50,033 --> 00:46:53,233
+他被问到一个关于他生活的非常私人的问题
+
+1965
+00:46:55,200 --> 00:46:57,800
+如果有的话，你会评论什么贡献吗？
+
+1966
+00:46:57,800 --> 00:46:59,900
+耶稣基督和他的福音
+
+1967
+00:47:00,133 --> 00:47:01,100
+可能有
+
+1968
+00:47:01,933 --> 00:47:03,700
+对你或科学
+
+1969
+00:47:04,800 --> 00:47:07,666
+我真的不太懂科学因为
+
+1970
+00:47:08,100 --> 00:47:09,800
+这是一件事
+
+1971
+00:47:10,500 --> 00:47:13,933
+我相信这是非常复杂的
+
+1972
+00:47:14,666 --> 00:47:17,866
+很难想象欧洲的历史
+
+1973
+00:47:19,033 --> 00:47:20,300
+没有基督
+
+1974
+00:47:21,000 --> 00:47:23,800
+很难想象科学史
+
+1975
+00:47:24,233 --> 00:47:25,033
+没有欧洲
+
+1976
+00:47:29,866 --> 00:47:32,700
+至于我自己，我会
+
+1977
+00:47:35,266 --> 00:47:36,400
+我会更穷
+
+1978
+00:47:38,333 --> 00:47:40,733
+我不知道我能成为一个更好还是更坏的科学家
+
+1979
+00:47:40,733 --> 00:47:42,533
+但那不是你想知道的
+
+1980
+00:47:44,700 --> 00:47:46,400
+罗伯特·奥本海默博士
+
+1981
+00:47:46,500 --> 00:47:48,933
+不遗余力地帮助他的国家
+
+1982
+00:47:48,933 --> 00:47:51,866
+结束残酷的世界大战
+
+1983
+00:47:53,200 --> 00:47:55,033
+他只成功了
+
+1984
+00:47:55,033 --> 00:47:57,500
+后来被同一个国家抹黑
+
+1985
+00:47:57,500 --> 00:47:58,600
+他服过役
+
+1986
+00:47:59,800 --> 00:48:00,800
+他的进攻
+
+1987
+00:48:01,433 --> 00:48:04,133
+以合作促和平
+
+1988
+00:48:04,833 --> 00:48:07,400
+今天他的信息仍然很紧急
+
+1989
+00:48:07,400 --> 00:48:09,833
+和他那个时代一样重要
+
+1990
+00:48:11,733 --> 00:48:14,033
+战后我们该怎么办
+
+1991
+00:48:14,033 --> 00:48:16,666
+我们应该如何处理我们创造的这项技术？
+
+1992
+00:48:16,900 --> 00:48:17,600
+所以过渡时期
+
+1993
+00:48:17,600 --> 00:48:18,400
+科学的
+
+1994
+00:48:18,400 --> 00:48:22,866
+委员会于1945年8月17日发布了他们的报告
+
+1995
+00:48:23,100 --> 00:48:25,666
+这是一份书面报告，有五分。
+
+1996
+00:48:25,666 --> 00:48:27,133
+会议由罗伯特·奥本海默主持
+
+1997
+00:48:27,133 --> 00:48:29,200
+但那是劳伦斯·费米
+
+1998
+00:48:29,200 --> 00:48:30,333
+也许是康普顿
+
+1999
+00:48:30,533 --> 00:48:31,866
+就像呃是他们一群人
+
+2000
+00:48:31,866 --> 00:48:34,000
+他们日复一日地工作
+
+2001
+00:48:34,000 --> 00:48:36,500
+在五点上反复辩论
+
+2002
+00:48:36,600 --> 00:48:39,200
+这五点在今天同样有效
+
+2003
+00:48:39,200 --> 00:48:40,433
+就像他们写的那天一样
+
+2004
+00:48:40,433 --> 00:48:41,466
+它说
+
+2005
+00:48:41,600 --> 00:48:43,200
+这些武器会变得更强大
+
+2006
+00:48:43,200 --> 00:48:43,866
+我们可能会
+
+2007
+00:48:43,866 --> 00:48:44,833
+从事
+
+2008
+00:48:44,833 --> 00:48:46,666
+试图制造更多的它们
+
+2009
+00:48:47,000 --> 00:48:49,100
+而且有办法控制它
+
+2010
+00:48:49,100 --> 00:48:50,900
+只有通过科学
+
+2011
+00:48:50,900 --> 00:48:52,700
+开放合作
+
+2012
+00:48:52,833 --> 00:48:56,066
+这些并不是什么激进疯狂的想法。
+
+2013
+00:48:56,066 --> 00:48:57,666
+这些人是政府官员
+
+2014
+00:48:57,666 --> 00:48:58,800
+他们在里面
+
+2015
+00:48:58,800 --> 00:48:59,066
+他们是
+
+2016
+00:48:59,066 --> 00:49:01,333
+世界上最受尊敬的科学家
+
+2017
+00:49:01,333 --> 00:49:03,733
+说我们可以控制这项技术
+
+2018
+00:49:03,733 --> 00:49:05,066
+我们必须治疗它
+
+2019
+00:49:05,233 --> 00:49:07,866
+不同于其他军队
+
+2020
+00:49:09,266 --> 00:49:12,466
+使用，这不是一个直观的想法
+
+2021
+00:49:12,466 --> 00:49:14,533
+它没有被强烈拒绝
+
+2022
+00:49:14,533 --> 00:49:16,700
+我是说，这些人创造了这项技术。
+
+2023
+00:49:16,700 --> 00:49:17,133
+他们说
+
+2024
+00:49:17,133 --> 00:49:19,466
+你就是这样处理的
+
+2025
+00:49:19,700 --> 00:49:21,433
+这个建议有可能
+
+2026
+00:49:21,433 --> 00:49:23,133
+可能直接被带走了
+
+2027
+00:49:23,133 --> 00:49:25,733
+军方说我们该怎么处理这个
+
+2028
+00:49:26,700 --> 00:49:27,900
+和政府
+
+2029
+00:49:27,900 --> 00:49:29,933
+他们本可以听科学家的话
+
+2030
+00:49:29,933 --> 00:49:30,933
+并管理它
+
+2031
+00:49:30,933 --> 00:49:33,900
+他们从一开始就求婚的方式
+
+2032
+00:49:34,200 --> 00:49:36,133
+呃，当我回顾历史时
+
+2033
+00:49:36,133 --> 00:49:38,100
+我认为这段时间值得讨论
+
+2034
+00:49:38,100 --> 00:49:40,000
+直到1947年
+
+2035
+00:49:40,200 --> 00:49:41,433
+一遍又一遍
+
+2036
+00:49:41,433 --> 00:49:43,600
+一遍又一遍，让人们理解
+
+2037
+00:49:43,766 --> 00:49:46,700
+对科学家来说有多接近，有多清楚
+
+2038
+00:49:46,700 --> 00:49:48,900
+我们应该如何管理这项技术
+
+2039
+00:49:49,000 --> 00:49:51,833
+以及如何有效地只是任意的
+
+2040
+00:49:51,866 --> 00:49:53,600
+官僚决策
+
+2041
+00:49:54,000 --> 00:49:56,466
+做了与他们完全相反的事情
+
+2042
+00:49:56,500 --> 00:49:58,933
+建议并进入军备竞赛
+
+2043
+00:49:58,933 --> 00:50:00,400
+几乎毁灭了世界
+
+2044
+00:50:00,400 --> 00:50:02,633
+他们并不认为自己的出路
+
+2045
+00:50:02,666 --> 00:50:04,066
+他们确实认为他们的出路
+
+2046
+00:50:04,066 --> 00:50:05,866
+他们说我不同意你们科学家的观点
+
+2047
+00:50:05,866 --> 00:50:06,866
+你不知道你在说什么
+
+2048
+00:50:06,866 --> 00:50:07,866
+我们按自己的方式来
+
+2049
+00:50:07,933 --> 00:50:09,900
+我们有70年的时间来测试它
+
+2050
+00:50:09,900 --> 00:50:12,633
+事实证明科学家们是100%正确的
+
+2051
+00:50:13,266 --> 00:50:15,100
+除了把我们自己炸飞
+
+2052
+00:50:15,100 --> 00:50:17,033
+这至今仍是个悬而未决的问题
+
+2053
+00:50:17,033 --> 00:50:18,266
+我们可能都会死
+
+2054
+00:50:18,266 --> 00:50:20,600
+那真是个有趣的时期。
+
+2055
+00:50:20,600 --> 00:50:21,633
+他们写下的
+
+2056
+00:50:21,633 --> 00:50:22,900
+提供了这个建议
+
+2057
+00:50:23,000 --> 00:50:24,300
+试图交付它
+
+2058
+00:50:24,633 --> 00:50:27,200
+它没有到达那里。
+
